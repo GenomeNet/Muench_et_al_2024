@@ -60,7 +60,7 @@ Costs associated to this API calls were ~10€
 
 now generate the csv version
 
-````
+```
 python format_batch_output.py
 ```
 
