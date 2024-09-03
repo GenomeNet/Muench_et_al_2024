@@ -37,3 +37,26 @@ print(paste("Number of non-NA Gene_location entries:", nrow(truth_wa)))
 print(table(file.exists(truth_wa$Gene_location)))
 
 write.csv2(truth_wa, "section5_gene_names/ground_truth_wa_with_gene_list_information.csv", row.names = FALSE, quote = FALSE)
+
+
+
+# Split the dataframe into chunks of maximum 500 samples
+chunk_size <- 500
+num_chunks <- ceiling(nrow(truth_wa) / chunk_size)
+
+for (i in 1:num_chunks) {
+  start_idx <- (i - 1) * chunk_size + 1
+  end_idx <- min(i * chunk_size, nrow(truth_wa))
+  
+  chunk <- truth_wa[start_idx:end_idx, ]
+  
+  # Create the output filename
+  output_file <- sprintf("section5_gene_names/ground_truth_wa_with_gene_list_information_part%d.csv", i)
+  
+  # Write the chunk to a CSV file
+  write.csv2(chunk, output_file, row.names = FALSE, quote = FALSE)
+  
+  print(paste("Saved", output_file, "with", nrow(chunk), "samples"))
+}
+
+print(paste("Total number of files created:", num_chunks))
