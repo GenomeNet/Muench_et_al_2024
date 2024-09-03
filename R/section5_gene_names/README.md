@@ -13,13 +13,48 @@ For this, we added a column with the path information to the TXT file containing
 
 ```
 microbeLLM by_list  \
-    --model openai/chatgpt-4o-latest \
+    --model gpt-4o-mini \
     --use_genes --gene_column Gene_location \
     --system_template templates/only_query_template_system_pred1.txt \
     --user_template  templates/only_query_template_user_pred1.txt \
-    --input_file ground_truth_wa_with_gene_list_information.csv \
-    --output microbeLLM_output_only_genes_test.csv
+    --input_file ground_truth_wa_with_gene_list_information_100.csv \
+    --output microbeLLM_output_only_genes_batches_100.jsonl \
+    --batchoutput
 ```
+
+```
+#!/bin/bash
+
+# Loop through the 7 parts
+for i in {1..7}
+do
+    echo "Processing part $i"
+    
+    microbeLLM by_list \
+        --model gpt-4o-mini \
+        --use_genes --gene_column Gene_location \
+        --system_template templates/only_query_template_system_pred1.txt \
+        --user_template  templates/only_query_template_user_pred1.txt \
+        --input_file ground_truth_wa_with_gene_list_information_part${i}.csv \
+        --output microbeLLM_output_only_genes_batches_part${i}.jsonl \
+        --batchoutput
+
+    echo "Finished processing part $i"
+    echo "------------------------"
+done
+
+echo "All parts processed successfully"
+```
+
+- part1: `file-m6ejk6U61SETg0f4Deewskuy`
+- part2: `file-JMk0ZwElFXwPIHrc6a89bTM6`
+- part3: `file-n3E80oL1B1a04GZj72pwI9fI`
+- part4: `file-m1oXhfhilfq9aTuSouJHiJV6`
+- part5: `file-mLnMIaTW0jamKdrNWAq7NXXf`
+- part6: `file-LVXJEAJmp6jvEDvEAt3qMCLs`
+- part7: `file-OwUEXij4k0zsHkvytgCb3vCr`
+
+Responses are written to `batch_results/`
 
 ## Data processing
 
