@@ -56,10 +56,49 @@ echo "All parts processed successfully"
 
 Responses are written to `batch_results/`
 
+Costs associated to this API calls were ~10€
+
+now generate the csv version
+
+````
+python format_batch_output.py
+```
+
+which outputs `Data from all JSONL files has been saved to batch_results_csv/formatted_output.csv`
+
+### Name-based run for comparison
+
+```
+microbeLLM by_list  \
+    --model gpt-4o-mini \
+    --system_template templates/only_query_template_system_pred1.txt \
+    --user_template  templates/only_query_template_user_pred1.txt \
+    --input_file ground_truth_wa_with_gene_list_information.csv \
+    --output microbeLLM_output_binomial_names.jsonl \
+    --batchoutput
+``` 
+
+output is saved to `batch_results_name`
+
+and for knowlege groups
+
+```
+microbeLLM by_list  \
+    --model gpt-4o-mini \
+    --system_template templates/k_groups_system.txt \
+    --user_template templates/k_groups_user.txt \
+    --input_file ground_truth_wa_with_gene_list_information.csv \
+    --output microbeLLM_output_binomial_names_k_groups.jsonl \
+    --batchoutput
+``` 
+
+output is saved to `batch_results_kgroups`
+
+
 ## Data processing
 
-- The file `gene_based.r` is processing the microbeLLM output `data/generated_data/gene_data/microbeLLM_output_only_genes.csv` and compares it with the bugphyzz ground truth infomration to calculated balanced accuracy values for the phenotypes. 
+The formatted predictions are available at `batch_results_csv/formatted_output.csv` while the ground truth information is available at `ground_truth.csv`. 
 
-## Figures
-- the code to reproduce Figure 4C is available at `figure_4c.r`
-- the code to reproduce Figure 4D is available at `figure_4d.r`
+These needs to be compared to caluclate balanced accuracy scores per class, this can be done with the script `calc_metric.r`
+
+
