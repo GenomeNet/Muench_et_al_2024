@@ -1,0 +1,1 @@
+Files in reformatted_gff_non_hyp were generated using this Snakemake pipeline https://gist.github.com/philippmuench/63fb7333e6910054c2119c956b5fec8f from the NCBI downloaded reference genomes.

@@ -1,0 +1,3131 @@
+tRNA-Gly(gcc)
+tRNA-Leu(tag)
+tRNA-Lys(ttt)
+tRNA-Thr(tgt)
+tRNA-Val(tac)
+5S ribosomal RNA
+16S ribosomal RNA (partial)
+Lysine--tRNA ligase
+tRNA-dihydrouridine synthase B
+Dihydroneopterin aldolase
+Dihydropteroate synthase
+Cysteine synthase
+Foldase protein PrsA 2
+33 kDa chaperonin
+Type III pantothenate kinase
+ATP-dependent zinc metalloprotease FtsH
+Hypoxanthine-guanine phosphoribosyltransferase
+tRNA(Ile)-lysidine synthase
+putative serine/threonine-protein kinase YabT
+Stage II sporulation protein E
+tRNA-Met(cat)
+Polyribonucleotide nucleotidyltransferase
+Cell division protein DivIC
+Spore protein YabQ
+Spore protein YabP
+Lipid II flippase MurJ
+Stage V sporulation protein T
+Transcription-repair-coupling factor
+Anti-sigma-F factor Fin
+Peptidyl-tRNA hydrolase
+General stress protein CTC
+Ribose-phosphate pyrophosphokinase
+Bifunctional protein GlmU
+Putative septation protein SpoVG
+2-iminobutanoate/2-iminopropanoate deaminase
+Pur operon repressor
+4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+Protein Veg
+Sporulation-specific protease YabG
+Ribosomal RNA small subunit methyltransferase A
+Ribonuclease M5
+D-aminoacyl-tRNA deacylase
+Methionine--tRNA ligase
+Transition state regulatory protein AbrB
+Ribosomal RNA small subunit methyltransferase I
+tRNA1(Val) (adenine(37)-N6)-methyltransferase
+Initiation-control protein YabA
+Cyclic di-AMP receptor A
+Thymidylate kinase
+Arginine decarboxylase
+Anti-sigma-G factor Gin
+5S ribosomal RNA
+23S ribosomal RNA
+16S ribosomal RNA
+Sigma-K factor-processing regulatory protein BofA
+Recombination protein RecR
+Nucleoid-associated protein
+Holliday junction ATP-dependent DNA helicase RuvB
+tRNA-specific adenosine deaminase
+Enterobactin synthase component B
+Cortical fragment-lytic enzyme
+Deoxyguanosine kinase
+Deoxyadenosine kinase
+tRNA-Ser(tga)
+Serine--tRNA ligase
+Pyridoxal 5'-phosphate synthase subunit PdxT
+Pyridoxal 5'-phosphate synthase subunit PdxS
+D-alanyl-D-alanine carboxypeptidase DacA
+Inosine-5'-monophosphate dehydrogenase
+5S ribosomal RNA
+23S ribosomal RNA
+16S ribosomal RNA
+DNA gyrase subunit A
+DNA gyrase subunit B
+DNA replication and repair protein RecF
+Beta sliding clamp
+Chromosomal replication initiator protein DnaA
+50S ribosomal protein L34
+Ribonuclease P protein component
+Membrane protein insertase MisCA
+tRNA modification GTPase MnmE
+tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+Ribosomal RNA small subunit methyltransferase G
+Nucleoid occlusion protein
+Sporulation initiation inhibitor protein Soj
+Stage 0 sporulation protein J
+putative membrane protein YdfK
+Small-conductance mechanosensitive channel
+Putative dimethyl sulfoxide reductase chain YnfE
+Ribosome-binding ATPase YchF
+30S ribosomal protein S6
+Single-stranded DNA-binding protein A
+30S ribosomal protein S18
+Cyclic-di-AMP phosphodiesterase GdpP
+50S ribosomal protein L9
+Replicative DNA helicase
+Adenylosuccinate synthetase
+tRNA-Lys(ttt)
+tRNA-Glu(ttc)
+tRNA-Asp(gtc)
+tRNA-Phe(gaa)
+Transcriptional regulatory protein WalR
+Sensor histidine kinase WalK
+Two-component system WalR/WalK regulatory protein YycH
+Two-component system WalR/WalK regulatory protein YycI
+Putative metallo-hydrolase YycJ
+Serine protease Do-like HtrB
+Ribosomal RNA large subunit methyltransferase H
+Heme oxygenase (staphylobilin-producing)
+Putative hemin import ATP-binding protein HrtA
+Fructose-bisphosphate aldolase class 1
+putative HTH-type transcriptional regulator YfiR
+Bacitracin transport ATP-binding protein BcrA
+HTH-type transcriptional regulator SrpS
+Glucose--fructose oxidoreductase
+2-oxopent-4-enoate hydratase
+2-hydroxymuconate tautomerase
+Multicopper oxidase mco
+Quinohemoprotein alcohol dehydrogenase ADH IIB
+Swarming motility protein SwrC
+UDP-N-acetylglucosamine 4-epimerase
+D-inositol-3-phosphate glycosyltransferase
+Dual-specificity RNA pseudouridine synthase RluF
+NADP-specific glutamate dehydrogenase
+HTH-type transcriptional regulator GltC
+Peptidase T
+HTH-type transcriptional regulator BetI
+Multidrug efflux system ATP-binding protein
+Gluconate 2-dehydrogenase subunit 3
+Gluconate 2-dehydrogenase flavoprotein
+putative ABC transporter ATP-binding protein
+putative ABC transporter ATP-binding protein
+Putative niacin/nicotinamide transporter NaiP
+Leucine-%2C isoleucine-%2C valine-%2C threonine-%2C and alanine-binding protein
+High-affinity branched-chain amino acid transport system permease protein LivH
+Lipopolysaccharide export system ATP-binding protein LptB
+High-affinity branched-chain amino acid transport ATP-binding protein LivF
+Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+Phosphatase YwpJ
+Linearmycin resistance ATP-binding protein LnrL
+putative ABC transporter binding protein NosD
+Nitrous-oxide reductase
+putative N-acetyl-alpha-D-glucosaminyl L-malate deacetylase 2
+putative protein YojF
+Spore germination protein A1
+Spore germination protein YndE
+Pyridoxine kinase
+Sulfur carrier protein FdhD
+Formate dehydrogenase subunit alpha
+Formate dehydrogenase subunit alpha
+Formate dehydrogenase%2C nitrate-inducible%2C iron-sulfur subunit
+Formate dehydrogenase%2C nitrate-inducible%2C cytochrome b556(Fdn) subunit
+Protein FdhE
+Molybdenum cofactor guanylyltransferase
+Molybdopterin synthase catalytic subunit
+Molybdopterin synthase sulfur carrier subunit
+Putative heme-dependent peroxidase
+Phosphate acetyltransferase
+Lipoyl-[GcvH]:protein N-lipoyltransferase
+Prespore-specific transcriptional regulator RsfA
+2-hydroxymuconate tautomerase
+Penicillin-binding protein 2D
+Polyamine aminopropyltransferase
+Agmatinase
+putative beta-barrel protein YwiB
+Arginine--tRNA ligase
+Small%2C acid-soluble spore protein H
+Minor cardiolipin synthase ClsB
+putative iron-sulfur-binding oxidoreductase FadF
+Acetyl-CoA acetyltransferase
+putative 3-hydroxybutyryl-CoA dehydrogenase
+Acyl-CoA dehydrogenase
+Acyl-CoA dehydrogenase
+Fused isobutyryl-CoA mutase
+DNA-directed RNA polymerase subunit delta
+CTP synthase
+Sporulation initiation phosphotransferase F
+putative fructose-bisphosphate aldolase
+Transaldolase
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2
+Fructose-1%2C6-bisphosphatase class 2
+Transcription termination factor Rho
+50S ribosomal protein L31
+Thymidine kinase
+Peptide chain release factor 1
+Release factor glutamine methyltransferase
+Threonylcarbamoyl-AMP synthase
+putative manganese efflux pump MntP
+Protein-arginine-phosphatase
+Putative sugar phosphate isomerase YwlF
+Serine hydroxymethyltransferase
+Uracil phosphoribosyltransferase
+Minor extracellular protease vpr
+ATP synthase subunit a
+ATP synthase subunit c
+ATP synthase subunit b
+ATP synthase subunit delta
+ATP synthase subunit alpha
+ATP synthase gamma chain
+ATP synthase subunit beta
+ATP synthase epsilon chain
+NAD(P)H-quinone oxidoreductase subunit 3
+NADH-quinone oxidoreductase subunit 6
+NAD(P)H-quinone oxidoreductase subunit J%2C chloroplastic
+NAD(P)H-quinone oxidoreductase subunit H
+NADH-quinone oxidoreductase subunit H
+NADH-quinone oxidoreductase subunit I
+NADH-quinone oxidoreductase subunit J
+NADH-quinone oxidoreductase subunit K
+NADH-quinone oxidoreductase subunit L
+NAD(P)H-quinone oxidoreductase chain 4 1
+NAD(P)H-quinone oxidoreductase subunit 2
+putative cardiolipin synthase YwiE
+Magnesium transport protein CorA
+Protein-glutamate methylesterase/protein-glutamine glutaminase
+Sensor histidine kinase RcsC
+Chemotaxis protein methyltransferase
+Anti-sigma-B factor antagonist
+Serine-protein kinase RsbW
+RNA polymerase sigma-B factor
+General stress protein 17M
+putative protein YwmB
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+Stage II sporulation protein Q
+Beta-lactam-inducible penicillin-binding protein
+DNA base-flipping protein
+Stage III sporulation protein D
+Cell shape-determining protein Mbl
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+Single-stranded DNA-binding protein B
+putative HTH-type transcriptional regulator YtcD
+sugar efflux transporter
+ATP-dependent RNA helicase DbpA
+Inner membrane protein YhaI
+D-gamma-glutamyl-meso-diaminopimelic acid endopeptidase CwlS
+Transcriptional regulatory protein YpdB
+Sensor histidine kinase RcsC
+putative cyclic di-GMP phosphodiesterase PdeI
+Transcriptional regulatory protein NatR
+putative capsular polysaccharide biosynthesis protein YwqC
+Tyrosine-protein kinase YwqD
+Tyrosine-protein phosphatase YwqE
+UTP--glucose-1-phosphate uridylyltransferase
+putative sugar transferase EpsL
+GDP-L-fucose synthase
+GDP-mannose 4%2C6-dehydratase
+Putative acetyltransferase
+putative glycosyltransferase EpsJ
+O-antigen biosynthesis glycosyltransferase WbnK
+2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-acetyltransferase
+D-inositol-3-phosphate glycosyltransferase
+lipid II flippase MurJ
+UDP-glucose 6-dehydrogenase YwqF
+Mannose-1-phosphate guanylyltransferase RfbM
+HTH-type transcriptional regulator MurR
+Protein MalY
+PTS system maltose-specific EIICB component
+Putative fructokinase
+putative mannose-6-phosphate isomerase GmuF
+HTH-type transcriptional activator RhaS
+Fructokinase
+D-psicose 3-epimerase
+PTS system mannose-specific EIIBCA component
+PTS system mannose-specific EIIBCA component
+Phosphocarrier protein HPr
+Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+putative protein
+Anaerobic nitric oxide reductase transcription regulator NorR
+1-pyrroline-5-carboxylate dehydrogenase
+Proline dehydrogenase 1
+Inner membrane protein YihN
+Beta-glucoside kinase
+putative HTH-type transcriptional regulator
+putative MFS-type transporter YhhS
+N-substituted formamide deformylase
+putative symporter YodF
+IS1182 family transposase ISBch1
+N-acetyldiaminopimelate deacetylase
+HTH-type transcriptional regulator HexR
+3-methylitaconate isomerase
+C4-dicarboxylate-binding periplasmic protein DctP
+C4-dicarboxylate TRAP transporter large permease protein DctM
+Homoisocitrate dehydrogenase
+HTH-type transcriptional regulator CynR
+Fumarate reductase flavoprotein subunit
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+Histidinol-phosphate aminotransferase
+D-alanine--D-alanine ligase
+putative protein YybH
+IS66 family transposase ISSwo2
+Cell wall hydrolase CwlJ
+Phenylacetone monooxygenase
+Levodione reductase
+Carboxylesterase NlhH
+2%2C5-dichloro-2%2C5-cyclohexadiene-1%2C4-diol dehydrogenase LinX
+NADP-dependent 7-alpha-hydroxysteroid dehydrogenase
+Holin-like protein CidB
+Holin-like protein CidA
+HTH-type transcriptional repressor RspR
+Anaerobic nitric oxide reductase transcription regulator NorR
+Carnitine monooxygenase oxygenase subunit
+Acetolactate synthase isozyme 2 large subunit
+Betaine aldehyde dehydrogenase
+Amino-acid permease RocC
+putative symporter YodF
+Aldehyde dehydrogenase%2C thermostable
+L-2-hydroxyglutarate dehydrogenase
+Glutarate 2-hydroxylase
+HTH-type transcriptional regulatory protein GabR
+Protease synthase and sporulation protein PAI 2
+IS110 family transposase ISHaha5
+putative ABC transporter ATP-binding protein YbiT
+HTH-type transcriptional regulator TtgR
+Glutathione transport system permease protein GsiC
+putative D%2CD-dipeptide transport system permease protein DdpC
+Glutathione import ATP-binding protein GsiA
+5-keto-4-deoxy-D-glucarate aldolase
+putative N-acetyl-LL-diaminopimelate aminotransferase
+Hippurate hydrolase
+putative licABCH operon regulator
+PTS system cellobiose-specific EIIB component
+Lichenan-specific phosphotransferase enzyme IIA component
+Lichenan permease IIC component
+Cytidine deaminase
+Hydroperoxy fatty acid reductase gpx1
+Purine efflux pump PbuE
+Metallothiol transferase FosB
+Tyrosine recombinase XerC
+putative guanidinium efflux system subunit GdnC
+putative guanidinium efflux system subunit GdnD
+putative protein YyaP
+Tyrosine recombinase XerC
+putative HTH-type transcriptional regulator YtcD
+Urocanate reductase
+Putative HTH-type transcriptional regulator
+Thioredoxin reductase
+Riboflavin transport system permease protein RibX
+Vitamin B12 import ATP-binding protein BtuD
+Sec-independent protein translocase protein TatCd
+Alcohol dehydrogenase
+IS110 family transposase IS653
+Anaerobic nitric oxide reductase transcription regulator NorR
+Guanidinobutyrase
+Stress response protein NhaX
+ECF RNA polymerase sigma factor SigX
+Diguanylate cyclase DgcM
+Fosfomycin resistance protein AbaF
+NADP/NAD-dependent aldehyde dehydrogenase PuuC
+4-hydroxy-tetrahydrodipicolinate synthase
+HTH-type transcriptional regulator PuuR
+HTH-type transcriptional regulator SgrR
+Glutathione transport system permease protein GsiC
+putative D%2CD-dipeptide transport system permease protein DdpC
+Oligopeptide transport ATP-binding protein OppD
+Vitamin B12 import ATP-binding protein BtuD
+Mannonate dehydratase
+putative 5-dehydro-4-deoxyglucarate dehydratase
+Aldehyde dehydrogenase%2C thermostable
+Glucarate dehydratase
+Glyoxylate/hydroxypyruvate reductase B
+HTH-type transcriptional regulator LutR
+N-acetylcysteine deacetylase
+Branched-chain amino acid transport system 2 carrier protein
+HTH-type transcriptional regulator DegA
+Pyrimidine-specific ribonucleoside hydrolase RihA
+Energy-coupling factor transporter transmembrane protein EcfT
+Energy-coupling factor transporter ATP-binding protein EcfA2
+Energy-coupling factor transporter ATP-binding protein EcfA3
+Ribokinase
+Cold shock-like protein CspLA
+Putative cytochrome bd menaquinol oxidase subunit II
+Putative cytochrome bd menaquinol oxidase subunit I
+Putative ribosomal N-acetyltransferase YdaF
+Deaminated glutathione amidase
+Putative NAD(P)H nitroreductase YodC
+Swarming motility protein SwrC
+Sugar phosphatase YidA
+IS110 family transposase IS653
+Glucose 1-dehydrogenase 2
+L-aspartate/glutamate-specific racemase
+[Ribosomal protein S5]-alanine N-acetyltransferase
+HTH-type transcriptional regulator XynR
+Acetaldehyde dehydrogenase
+4-hydroxy-2-oxovalerate aldolase
+Flavin reductase
+HTH-type transcriptional regulator XynR
+Anthranilate 3-monooxygenase oxygenase component
+Putative bifunctional riboflavin kinase/FMN adenylyltransferase
+2-hydroxyhexa-2%2C4-dienoate hydratase
+2-hydroxyhexa-2%2C4-dienoate hydratase
+putative HTH-type transcriptional regulator RhmR
+Flavin reductase
+4%2C4'-diapophytoene desaturase (4%2C4'-diapolycopene-forming)
+Flavin-dependent trigonelline monooxygenase%2C oxygenase component
+RNA-binding riboflavin kinase RibR
+Benzoylformate decarboxylase
+Isatin hydrolase
+CRP-like cAMP-activated global transcriptional regulator
+Transcriptional activator protein Anr
+Putative aldehyde dehydrogenase AldA
+3-hydroxyanthranilate 3%2C4-dioxygenase
+Putative aldehyde dehydrogenase AldA
+Swarming motility protein SwrC
+Ribose-5-phosphate isomerase A
+N-acetylcysteine deacetylase
+Flavodoxin
+Ribonucleoside-diphosphate reductase subunit beta
+Ribonucleoside-diphosphate reductase subunit alpha
+Protein YhfA
+Sulfate-binding protein
+Sulfate transport system permease protein CysT
+Sulfate transport system permease protein CysW
+Sulfate/thiosulfate import ATP-binding protein CysA
+putative protein
+Pca regulon regulatory protein
+putative sulfoacetate transporter SauU
+3-alpha-hydroxycholanate dehydrogenase (NADP(+))
+Acetolactate synthase isozyme 3 large subunit
+Phenylacetaldehyde dehydrogenase
+L-aspartate dehydrogenase
+3-phenylpropionate/cinnamic acid dioxygenase subunit alpha
+Biphenyl dioxygenase subunit beta
+Cis-toluene dihydrodiol dehydrogenase
+IS200/IS605 family transposase ISBth17
+putative protein
+Hyaluronoglucosaminidase
+Mannosylglycerate hydrolase
+putative protein YesV
+Glucose--fructose oxidoreductase
+putative multiple-sugar transport system permease YteP
+HTH-type transcriptional activator RhaR
+6-phospho-beta-glucosidase GmuD
+Beta-glucoside kinase
+Putative fructokinase
+Evolved beta-galactosidase subunit alpha
+Putative multidrug export ATP-binding/permease protein
+putative ABC transporter ATP-binding protein
+putative mannose-6-phosphate isomerase GmuF
+FMN-dependent NADH-azoreductase 4
+Glutamine transport ATP-binding protein GlnQ
+ABC transporter glutamine-binding protein GlnH
+putative glutamine ABC transporter permease protein GlnM
+putative glutamine ABC transporter permease protein GlnP
+Arginine utilization regulatory protein RocR
+Urocanate hydratase
+Lysine-specific permease
+Imidazolonepropionase
+Peptidase T
+Histidine ammonia-lyase
+UDP-glucose 4-epimerase
+RNA polymerase sigma factor FliA
+Bifunctional autolysin
+5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+putative N-acetyl-LL-diaminopimelate aminotransferase
+Motility protein B
+Chemotaxis protein PomA
+Flagellar basal-body rod protein FlgG
+Flagellar basal-body rod protein FlgG
+Flagellar hook-associated protein 1
+Flagellin
+Flagellar basal-body rod protein FlgG
+Flagellar motor switch protein FliM
+Flagellar hook-associated protein 2
+Flagellar secretion chaperone FliS
+Flagellar basal body rod protein FlgB
+Flagellar basal-body rod protein FlgC
+Flagellar hook-basal body complex protein FliE
+Flagellar motor switch protein FliG
+putative ATP synthase YscN
+Flagellar motor switch protein FliN
+Flagellar biosynthetic protein FliP
+Flagellar biosynthetic protein FliQ
+Flagellar biosynthetic protein FliR
+Flagellar biosynthetic protein FlhB
+Flagellar biosynthesis protein FlhA
+Flagellar biosynthesis protein FlhF
+Flagellum site-determining protein YlxH
+RNA polymerase sigma-D factor
+Anaerobic nitric oxide reductase transcription regulator NorR
+Isoaspartyl dipeptidase
+HPr kinase/phosphorylase
+Ribose-phosphate pyrophosphokinase
+Dipeptidyl-peptidase 5
+Cortical fragment-lytic enzyme
+Serine acetyltransferase
+Putative glycosyltransferase EpsF
+Putative glycosyltransferase EpsD
+D-inositol-3-phosphate glycosyltransferase
+UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+Sporulation-specific N-acetylmuramoyl-L-alanine amidase
+Guanine/hypoxanthine permease PbuO
+UDP-glucose 4-epimerase
+C4-dicarboxylate transport protein
+putative signaling protein
+Dimethyl sulfoxide reductase DmsA
+Sugar transporter SemiSWEET
+Putative ring-cleaving dioxygenase MhqA
+Zinc transporter ZupT
+Catabolite control protein A
+D-ribose pyranase
+Ribose import ATP-binding protein RbsA
+Ribose import permease protein RbsC
+Ribose import binding protein RbsB
+Ribokinase
+UDP-N-acetylglucosamine 2-epimerase
+TelA-like protein
+Putative carboxypeptidase YodJ
+Copper-containing nitrite reductase
+Beta-hexosaminidase
+Vitamin B12 import ATP-binding protein BtuD
+Sensor histidine kinase DesK
+Transcriptional regulatory protein DesR
+UDP-glucose 6-dehydrogenase TuaD
+UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+Phosphoribosylamine--glycine ligase
+UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+Gamma-DL-glutamyl hydrolase
+16S ribosomal RNA (partial)
+23S ribosomal RNA
+5S ribosomal RNA
+Gamma-DL-glutamyl hydrolase
+Endospore coat-associated protein YheD
+Cell wall-binding protein YocH
+Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+Peptidoglycan-N-acetylglucosamine deacetylase
+UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+UTP--glucose-1-phosphate uridylyltransferase
+Teichoic acid poly(glycerol phosphate) polymerase
+Glycerol-3-phosphate cytidylyltransferase
+Teichoic acid glycerol-phosphate primase
+Teichoic acid translocation permease protein TagG
+Teichoic acids export ATP-binding protein TagH
+N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagT
+IMPACT family member YigZ
+Signal transduction histidine-protein kinase/phosphatase DegS
+Transcriptional regulatory protein DegU
+Protein DegV
+ComF operon protein 1
+Putative ribose-phosphate pyrophosphokinase
+Spore coat protein F
+Ribosome hibernation promotion factor
+Protein translocase subunit SecA
+Peptide chain release factor 2
+Cytochrome c-551
+Cell division ATP-binding protein FtsE
+Cell division protein FtsX
+Carboxy-terminal processing protease CtpB
+Cell division topological determinant MinJ
+putative multidrug ABC transporter permease YbhR
+Linearmycin resistance ATP-binding protein LnrL
+putative multidrug resistance protein EmrY
+Response regulator ArlR
+Signal transduction histidine-protein kinase ArlS
+Protein DedA
+Processive diacylglycerol beta-glucosyltransferase
+Undecaprenyl-diphosphatase BcrC
+Putative cytochrome bd menaquinol oxidase subunit I
+Putative cytochrome bd menaquinol oxidase subunit II
+Cadmium resistance transcriptional regulatory protein CadC
+Cadmium-transporting ATPase
+Cadmium%2C cobalt and zinc/H(+)-K(+) antiporter
+UvrABC system protein B
+UvrABC system protein A
+HPr kinase/phosphorylase
+Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+Pyrophosphatase PpaX
+2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-acetyltransferase
+ATP phosphoribosyltransferase regulatory subunit
+ATP phosphoribosyltransferase
+Histidinol dehydrogenase
+Imidazoleglycerol-phosphate dehydratase
+Imidazole glycerol phosphate synthase subunit HisH
+1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+Imidazole glycerol phosphate synthase subunit HisF
+Histidine biosynthesis bifunctional protein HisIE
+Thioredoxin reductase
+8-oxo-dGTP diphosphatase
+Nucleotide-binding protein YvcJ
+Gluconeogenesis factor
+putative cell division protein WhiA
+HPr-like protein Crh
+ATP-dependent Clp protease proteolytic subunit
+tRNA-Arg(ccg)
+RNA polymerase sigma-54 factor
+Central glycolytic genes regulator
+Glyceraldehyde-3-phosphate dehydrogenase 1
+Phosphoglycerate kinase
+Triosephosphate isomerase
+2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase
+Enolase
+putative protein-export membrane protein SecG
+Carboxylesterase
+Ribonuclease R
+SsrA-binding protein
+Zinc transporter ZitB
+Putative penicillin-binding protein PbpX
+NH(3)-dependent NAD(+) synthetase
+L-cystine-binding protein TcyA
+L-cystine transport system permease protein TcyB
+L-cystine import ATP-binding protein TcyC
+putative membrane protein YuaF
+Inner membrane protein YqiK
+Transcriptional regulatory protein SrrA
+Signal transduction histidine-protein kinase BaeS
+Benzil reductase ((S)-benzoin forming)
+Sulfate/thiosulfate import ATP-binding protein CysA
+Tungstate uptake system permease protein TupB
+Tungstate-binding protein TupA
+FMN-dependent NADH-azoreductase 2
+Undecaprenyl-diphosphatase
+Peptidoglycan glycosyltransferase RodA
+putative 3-hydroxyacyl-CoA dehydrogenase
+3-ketoacyl-CoA thiolase
+putative acyl-CoA dehydrogenase
+Regulatory protein MgsR
+Glycine cleavage system H protein
+Ribonuclease M5
+Multidrug resistance protein MdtG
+O-acetyl-L-homoserine sulfhydrylase
+Methionine import ATP-binding protein MetN
+Methionine import system permease protein MetP
+Methionine-binding lipoprotein MetQ
+Vegetative protein 296
+Cysteine desulfurase SufS
+Zinc-dependent sulfurtransferase SufU
+Sporulation protein YunB
+L-Ala--D-Glu endopeptidase
+Lipoyl synthase
+putative protein YutD
+Acid sugar phosphatase
+Glyoxylate/hydroxypyruvate reductase B
+Fe/S biogenesis protein NfuA
+NADH dehydrogenase
+Protein
+Ferredoxin--NADP reductase
+NADH dehydrogenase-like protein
+putative protein YuiC
+Cytosol aminopeptidase
+Putative esterase
+Kinase-associated lipoprotein B
+Superoxide dismutase-like protein YojM
+Alanine--tRNA ligase
+Alpha%2Calpha-trehalose phosphorylase
+Trehalose transport system permease protein SugB
+putative ABC transporter-binding protein
+HTH-type transcriptional regulator YesS
+6-phosphogluconate dehydrogenase%2C NADP(+)-dependent%2C decarboxylating
+General stress protein 13
+Ornithine aminotransferase
+Catabolic NAD-specific glutamate dehydrogenase RocG
+Long-chain-alcohol dehydrogenase 2
+Glucose-6-phosphate isomerase
+Enterobactin exporter EntS
+putative glycosyltransferase YkoT
+Putative adenine deaminase YerA
+Hydroxyacylglutathione hydrolase
+2%2C3-dehydroadipyl-CoA hydratase
+4-hydroxybenzoyl-CoA thioesterase
+Transcriptional repressor PaaX
+Short-chain-enoyl-CoA hydratase
+1%2C2-phenylacetyl-CoA epoxidase%2C subunit A
+3-hydroxyadipyl-CoA dehydrogenase
+3-hydroxybutyryl-CoA dehydrogenase
+3-oxoadipyl-CoA/3-oxo-5%2C6-dehydrosuberyl-CoA thiolase
+Betaine aldehyde dehydrogenase
+2%2C3-dehydroadipyl-CoA hydratase
+Benzoate--CoA ligase
+High-affinity branched-chain amino acid transport system permease protein LivH
+Lipopolysaccharide export system ATP-binding protein LptB
+High-affinity branched-chain amino acid transport ATP-binding protein LivF
+RNA polymerase-binding transcription factor DksA
+Manganese efflux system protein MneP
+Cobalt/magnesium transport protein CorA
+Transcriptional activator NprA
+Multidrug resistance protein 3
+Lactoylglutathione lyase
+Ferredoxin--NADP reductase
+Oligopeptide-binding protein AppA
+Glutathione transport system permease protein GsiC
+Glutathione transport system permease protein GsiD
+Oligopeptide transport ATP-binding protein OppD
+Oligopeptide transport ATP-binding protein OppF
+Staphylopine export protein
+Methionine synthase
+Bifunctional homocysteine S-methyltransferase/5%2C10-methylenetetrahydrofolate reductase
+Cystathionine beta-lyase MetC
+Cystathionine gamma-synthase/O-acetylhomoserine (thiol)-lyase
+Vitamin B12 import ATP-binding protein BtuD
+putative capsular polysaccharide biosynthesis protein YwqC
+Tyrosine-protein kinase YwqD
+UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+Putative glycosyltransferase EpsD
+Putative glycosyltransferase EpsF
+Transmembrane protein EpsG
+Putative glycosyltransferase EpsF
+putative sugar transferase EpsL
+Putative acetyltransferase EpsM
+Putative pyridoxal phosphate-dependent aminotransferase EpsN
+Teichoic acid poly(glycerol phosphate) polymerase
+Glycerol-3-phosphate cytidylyltransferase
+UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+putative glycosyltransferase EpsJ
+Putative multidrug export ATP-binding/permease protein
+6-phosphogluconolactonase
+Disulfide bond formation protein C
+Acetolactate synthase
+Acetyl esterase
+Purine catabolism regulatory protein
+Putative purine permease YbbY
+Hydantoin permease
+Allantoinase
+Allantoinase
+Purine catabolism regulatory protein
+2-iminobutanoate/2-iminopropanoate deaminase
+Allantoate amidohydrolase
+(S)-ureidoglycine aminohydrolase
+Ureidoglycolate dehydrogenase (NAD(+))
+Ureidoglycolate dehydrogenase (NAD(+))
+Protein FdrA
+Carbamate kinase 1
+Alkaline phosphatase synthesis sensor protein PhoR
+Transcriptional regulatory protein KdpE
+Sensor histidine kinase YpdA
+Sensory transduction protein LytR
+putative sulfoacetate transporter SauU
+Ferredoxin--NADP reductase
+General stress protein 20U
+Putrescine importer PuuP
+Anaerobic nitric oxide reductase transcription regulator NorR
+putative spore germination protein GerPF
+Betaine aldehyde dehydrogenase
+Putrescine aminotransferase
+5-aminovalerate aminotransferase DavT
+Succinate-semialdehyde dehydrogenase [NADP(+)] GabD
+D-3-phosphoglycerate dehydrogenase
+Serine-pyruvate aminotransferase
+Homoserine dehydrogenase
+Threonine synthase
+Homoserine kinase
+HTH-type transcriptional regulator MalT
+Arginine transport ATP-binding protein ArtM
+High-affinity branched-chain amino acid transport ATP-binding protein LivF
+High-affinity branched-chain amino acid transport system permease protein LivH
+3-oxoacyl-[acyl-carrier-protein] synthase 3
+2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase
+3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Long-chain-fatty-acid--CoA ligase FadD13
+putative zinc-binding alcohol dehydrogenase
+HTH-type transcriptional activator CmpR
+Sulfur carrier protein TusA
+5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+Phosphatidylinositol-3-phosphatase
+DEAD-box ATP-dependent RNA helicase CshE
+Cation/acetate symporter ActP
+High-affinity branched-chain amino acid transport ATP-binding protein LivF
+Putative 2-aminoethylphosphonate import ATP-binding protein PhnT
+High-affinity branched-chain amino acid transport system permease protein LivH
+Leucine-%2C isoleucine-%2C valine-%2C threonine-%2C and alanine-binding protein
+Ferredoxin--NADP reductase
+Anaerobic nitric oxide reductase transcription regulator NorR
+Hydrogen cyanide synthase subunit HcnC
+putative protein/GBAA_2834/BAS2643
+Trans-3-hydroxy-L-proline dehydratase
+4-hydroxy-tetrahydrodipicolinate synthase
+Trans-3-hydroxy-L-proline dehydratase
+Delta(1)-pyrroline-2-carboxylate reductase
+putative peptidase
+tRNA-Ala(ggc)
+Protein SapB
+16S ribosomal RNA
+23S ribosomal RNA
+5S ribosomal RNA
+tRNA-Val(tac)
+tRNA-Thr(tgt)
+tRNA-Lys(ttt)
+tRNA-Leu(tag)
+tRNA-Gly(gcc)
+tRNA-Leu(taa)
+tRNA-Arg(acg)
+tRNA-Pro(tgg)
+tRNA-Ala(tgc)
+tRNA-Met(cat)
+tRNA-Met(cat)
+tRNA-Ser(tga)
+tRNA-Met(cat)
+tRNA-Asp(gtc)
+tRNA-Phe(gaa)
+tRNA-His(gtg)
+tRNA-Gly(tcc)
+tRNA-Ile(gat)
+tRNA-Asn(gtt)
+tRNA-Ser(gct)
+tRNA-Glu(ttc)
+1%2C4-alpha-glucan branching enzyme GlgB
+Glucose-1-phosphate adenylyltransferase
+Glycogen biosynthesis protein GlgD
+Glycogen synthase
+Glycogen phosphorylase
+1%2C4-dihydroxy-2-naphthoate octaprenyltransferase
+Salicylate biosynthesis isochorismate synthase
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+2-hydroxy-6-oxo-2%2C4-heptadienoate hydrolase
+1%2C4-dihydroxy-2-naphthoyl-CoA synthase
+2-succinylbenzoate--CoA ligase
+o-succinylbenzoate synthase
+High-affinity zinc uptake system binding-protein ZnuA
+Putative membrane protein insertion efficiency factor
+S-ribosylhomocysteine lyase
+Putative 8-oxo-dGTP diphosphatase YtkD
+Taurine import ATP-binding protein TauB
+putative protein YtmB
+Phosphoenolpyruvate carboxykinase (ATP)
+S-adenosylmethionine synthase
+IS3 family transposase ISEfa8
+Asparagine synthetase [glutamine-hydrolyzing] 1
+Protein YrdA
+Phospholipase YtpA
+Tetraprenyl-beta-curcumene synthase
+Ribosomal RNA small subunit methyltransferase H
+Biotin synthase
+Leucine--tRNA ligase
+Sulfurtransferase
+Sporulation protein cse60
+putative protein
+Lipid II flippase MurJ
+Ribosomal small subunit pseudouridine synthase A
+Putative aminoacrylate hydrolase RutD
+ATP synthase subunit beta
+DNA protection during starvation protein 2
+S-adenosylmethionine decarboxylase proenzyme
+putative protein YndB
+putative amino acid permease YvbW
+putative HTH-type transcriptional regulator YtzE
+Putative dipeptidase
+D-alanine aminotransferase
+RNA 2'%2C3'-cyclic phosphodiesterase
+Putative lipid kinase YtlR
+Pullulanase
+tRNA (guanine-N(7)-)-methyltransferase
+putative quorum-quenching lactonase YtnP
+Putative aminopeptidase YsdC
+Inosine/xanthosine triphosphatase
+Thioredoxin-like protein YtpP
+UDP-N-acetylmuramate--L-alanine ligase
+Aminopeptidase PepS
+Protein AroA(G)
+Catabolite control protein A
+Acetoin utilization protein AcuC
+Inosine-5'-monophosphate dehydrogenase
+Acetoin utilization protein AcuA
+Acetyl-coenzyme A synthetase
+Biosynthetic peptidoglycan transglycosylase
+Tyrosine--tRNA ligase
+30S ribosomal protein S4
+L-methionine gamma-lyase
+Free methionine-R-sulfoxide reductase
+putative HTH-type transcriptional regulator YttP
+Septation ring formation regulator EzrA
+Cysteine desulfurase IscS
+putative tRNA sulfurtransferase
+Small%2C acid-soluble spore protein 1
+Acetyl-coenzyme A synthetase
+Protein RarD
+NAD kinase
+Putative signal peptide peptidase SppA
+putative spore protein YtfJ
+Thiol peroxidase
+Acetate kinase
+Molybdenum cofactor biosynthesis protein B
+Putative universal stress protein
+Alanine dehydrogenase
+putative peptidase
+Inosine-5'-monophosphate dehydrogenase
+Bifunctional oligoribonuclease and PAP phosphatase NrnA
+Sporulation membrane protein YtrI
+Sporulation membrane protein YtrH
+DNA polymerase III subunit alpha
+NAD-dependent malic enzyme
+HTH-type transcriptional repressor NanR
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+ATP-dependent 6-phosphofructokinase
+Pyruvate kinase
+Sodium-lithium/proton antiporter
+Citrate synthase 2
+Isocitrate dehydrogenase [NADP]
+Malate dehydrogenase
+(R)-specific enoyl-CoA hydratase
+Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+Alkaline phosphatase synthesis sensor protein PhoR
+DNA polymerase I
+Formamidopyrimidine-DNA glycosylase
+putative sporulation protein YtaF
+Dephospho-CoA kinase
+Glyceraldehyde-3-phosphate dehydrogenase 2
+S-adenosylmethionine decarboxylase proenzyme
+Transcriptional repressor NrdR
+Replication initiation and membrane attachment protein
+Primosomal protein DnaI
+Threonine--tRNA ligase 1
+Translation initiation factor IF-3
+50S ribosomal protein L35
+50S ribosomal protein L20
+Sigma-w pathway protein YsdB
+Putative aminopeptidase YsdC
+Small%2C acid-soluble spore protein I
+Putative TrmH family tRNA/rRNA methyltransferase
+Phenylalanine--tRNA ligase alpha subunit
+Phenylalanine--tRNA ligase beta subunit
+Putative pterin-4-alpha-carbinolamine dehydratase
+Ribonuclease HIII
+Cell division protein ZapA
+DNA polymerase/3'-5' exonuclease PolX
+Endonuclease MutS2
+Long-chain-fatty-acid--CoA ligase
+Fatty acid metabolism regulator protein
+putative enoyl-CoA hydratase
+Protein FixA
+Electron transfer flavoprotein subunit alpha
+Thioredoxin
+UvrABC system protein C
+Aspartokinase
+putative protein YslB
+Succinate dehydrogenase cytochrome b558 subunit
+Fumarate reductase flavoprotein subunit
+Fumarate reductase iron-sulfur subunit
+Sortase D
+Glycogen debranching enzyme
+Spore germination protein GerE
+Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+Adaptive-response sensory-kinase SasA
+IS3 family transposase ISBth10
+IS3 family transposase ISBth10
+putative protein
+putative HTH-type transcriptional regulator YusO
+Glutamate racemase
+Spore germination protein GerM
+Ribonuclease PH
+dITP/XTP pyrophosphatase
+Putative metallophosphoesterase MG207 
+Trigger factor
+ATP-dependent Clp protease ATP-binding subunit ClpX
+Lon protease 2
+Lon protease 1
+putative GTP-binding protein EngB
+Glutamyl-tRNA reductase
+Cytochrome c biogenesis protein CcsA
+Porphobilinogen deaminase
+Delta-aminolevulinic acid dehydratase
+Glutamate-1-semialdehyde 2%2C1-aminomutase
+Valine--tRNA ligase
+Folylpolyglutamate synthase
+Twitching mobility protein
+Type II secretion system protein F
+Type 4 prepilin-like proteins leader peptide-processing enzyme
+dTTP/UTP pyrophosphatase
+Cell shape-determining protein MreB
+Cell shape-determining protein MreC
+Rod shape-determining protein MreD
+Septum site-determining protein MinC
+Septum site-determining protein MinD
+Stage IV sporulation protein FA
+Stage IV sporulation protein FB
+Ribonuclease G
+50S ribosomal protein L21
+50S ribosomal protein L27
+Sporulation initiation phosphotransferase B
+GTPase Obg
+Bifunctional chorismate mutase/prephenate dehydratase
+Transcription repressor NadR
+Holliday junction ATP-dependent DNA helicase RuvA
+Holliday junction ATP-dependent DNA helicase RuvB
+S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+Queuine tRNA-ribosyltransferase
+Sec translocon accessory complex subunit YajC
+Stage V sporulation protein B
+Post-transcriptional regulator ComN
+Protein translocase subunit SecDF
+Adenine phosphoribosyltransferase
+GTP pyrophosphokinase
+D-aminoacyl-tRNA deacylase
+Histidine--tRNA ligase
+Aspartate--tRNA ligase
+Bacitracin transport ATP-binding protein BcrA
+putative AAA domain-containing protein
+HTH-type transcriptional regulator CymR
+Cysteine desulfurase IscS
+tRNA-specific 2-thiouridylase MnmA
+TPR repeat-containing protein YrrB
+ATP-dependent RecD-like DNA helicase
+Putative transport protein
+Alanine--tRNA ligase
+Putative pre-16S rRNA nuclease
+Endolytic murein transglycosylase
+tRNA 5-hydroxyuridine methyltransferase
+putative protease YhbU
+Uridine kinase
+Transcription elongation factor GreA
+Penicillin-binding protein 4B
+5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+O-acetylserine dependent cystathionine beta-synthase
+Cystathionine gamma-lyase
+Oligoendopeptidase F%2C plasmid
+RNA polymerase sigma-28 factor
+Phosphatidylserine decarboxylase proenzyme
+putative protein YqeH
+Shikimate dehydrogenase (NADP(+))
+RNA-binding protein YhbY
+Nicotinate-nucleotide adenylyltransferase
+Ribosomal silencing factor RsfS
+2-methoxy-6-polyprenyl-1%2C4-benzoquinol methylase%2C mitochondrial
+Pyrroline-5-carboxylate reductase
+ComE operon protein 1
+tRNA-specific adenosine deaminase
+ComE operon protein 3
+putative protein YqeN
+30S ribosomal protein S20
+Germination protease
+Elongation factor 4
+Heme chaperone HemW
+Heat-inducible transcription repressor HrcA
+Protein GrpE
+Chaperone protein DnaK
+Chaperone protein DnaJ
+Ribosomal protein L11 methyltransferase
+Ribosomal RNA small subunit methyltransferase E
+Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+Deoxyribose-phosphate aldolase
+30S ribosomal protein S21
+putative protein YqeY
+PhoH-like protein
+Cyclic-di-AMP phosphodiesterase PgpH
+Endoribonuclease YbeY
+Undecaprenol kinase
+Cytidine deaminase
+GTPase Era
+DNA repair protein RecO
+Glycine--tRNA ligase
+Transcriptional repressor CcpN
+Putative pyruvate%2C phosphate dikinase regulatory protein
+DNA primase
+RNA polymerase sigma factor SigA
+Acyl-CoA dehydrogenase%2C short-chain specific
+Cytochrome c-550
+tRNA (adenine(22)-N(1))-methyltransferase
+GTP cyclohydrolase 1 type 2 
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+DEAD-box ATP-dependent RNA helicase CshB
+putative endonuclease 4
+Vitamin B12 import ATP-binding protein BtuD
+High-affinity zinc uptake system membrane protein ZnuB
+Zinc-specific metallo-regulatory protein
+Nucleotidase
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+Anaerobic regulatory protein
+Superoxide dismutase [Mn]
+Penicillin-binding protein H
+Phosphate-binding protein PstS 1
+Phosphate transport system permease protein PstC
+Phosphate transport system permease protein PstA
+Phosphate import ATP-binding protein PstB 3
+Phosphate import ATP-binding protein PstB 3
+Phosphate-specific transport system accessory protein PhoU 
+Glycogen synthase
+50S ribosomal protein L33 1
+putative protein YqgN
+L-lactate dehydrogenase 1
+Rhomboid protease GluP
+putative protein YqgQ
+Glucokinase
+Gamma-D-glutamyl-L-diamino acid endopeptidase 1
+putative metallo-hydrolase
+Antitoxin YqcF
+Tyrosine recombinase XerC
+Putative aminoacrylate hydrolase RutD
+Transposon Tn7 transposition protein TnsB
+Transposon Tn7 transposition protein TnsA
+3'%2C5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+Type II secretion system protein F
+ComG operon protein 1
+RNA polymerase-associated protein RapA
+Aminomethyltransferase
+putative glycine dehydrogenase (decarboxylating) subunit 1
+putative glycine dehydrogenase (decarboxylating) subunit 2
+Thiosulfate sulfurtransferase GlpE
+Octanoyltransferase LipM
+2-methoxy-6-polyprenyl-1%2C4-benzoquinol methylase%2C mitochondrial
+rifamycin-inactivating phosphotransferase RphC
+HTH-type transcriptional regulator PuuR
+Carboxylesterase 2
+4%2C5-DOPA dioxygenase extradiol
+Putative oxidoreductase CatD
+Manganese efflux system protein MneS
+Ferrous iron permease EfeU
+Copper chaperone CopZ
+Copper-exporting P-type ATPase
+Aminopeptidase YpdF
+Elongation factor P
+Cytochrome c6
+Cytochrome c-type biogenesis protein CcmE
+Cytochrome c-type biogenesis protein CcmF
+ABC transporter ATP-binding protein NatA
+Thiol-disulfide oxidoreductase ResA
+Stage III sporulation protein AB
+Stage III sporulation protein AE
+Stage III sporulation protein AF
+Stage III sporulation protein AH
+Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+Biotin carboxylase
+putative protein
+Transcription antitermination protein NusB
+Bifunctional protein FolD protein
+Exodeoxyribonuclease 7 large subunit
+Exodeoxyribonuclease 7 small subunit
+Farnesyl diphosphate synthase
+1-deoxy-D-xylulose-5-phosphate synthase
+Hemolysin A
+Arginine repressor
+DNA repair protein RecN
+SpoIVB peptidase
+Stage 0 sporulation protein A
+putative protein YycC
+Glycerophosphodiester phosphodiesterase
+Anaerobic nitric oxide reductase transcription regulator NorR
+Phosphate acetyltransferase
+Leucine dehydrogenase
+Butyrate kinase 2
+Dihydrolipoyl dehydrogenase
+2-oxoisovalerate dehydrogenase subunit alpha
+2-oxoisovalerate dehydrogenase subunit beta
+Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+putative methylmalonyl-CoA mutase small subunit
+Methylmalonyl-CoA mutase large subunit
+putative GTPase
+Arginine-binding extracellular protein ArtP
+Arginine transport system permease protein ArtQ
+Arginine transport ATP-binding protein ArtM
+Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+Propionyl-CoA carboxylase beta chain
+Peptidase T
+DNA polymerase IV
+Glucose-6-phosphate 1-dehydrogenase
+Ribonuclease Z
+NADPH dehydrogenase
+4%2C4'-diaponeurosporenoate glycosyltransferase
+Pyrroline-5-carboxylate reductase
+putative oxidoreductase
+DNA polymerase IV
+Hydroxymethylglutaryl-CoA lyase YngG
+Acetyl-CoA acetyltransferase
+putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A
+putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B
+NADH-specific methylglyoxal reductase
+Cell division inhibitor MciZ
+Methanol dehydrogenase activator
+Stage II sporulation protein M
+Ferric uptake regulation protein
+Tyrosine recombinase XerD
+Phosphopentomutase
+Purine nucleoside phosphorylase 1
+Pyrimidine-nucleoside phosphorylase
+D-alanyl-D-alanine carboxypeptidase DacF
+Anti-sigma F factor antagonist
+Anti-sigma F factor
+RNA polymerase sigma-F factor
+Spore germination protein XA
+Diaminopimelate decarboxylase
+putative protein YpuA
+Protein RibT
+Segregation and condensation protein A
+Segregation and condensation protein B
+D-alanyl-D-alanine carboxypeptidase DacB
+Spore maturation protein A
+Spore maturation protein B
+Ribosomal large subunit pseudouridine synthase B
+Thiol-disulfide oxidoreductase ResA
+Cytochrome c biogenesis protein CcsB
+Cytochrome c biogenesis protein CcsA
+Transcriptional regulatory protein SrrA
+Sensor histidine kinase ResE
+ECF RNA polymerase sigma factor SigX
+Anti-sigma-X factor RsiX
+Riboflavin transporter FmnP
+Ferredoxin
+ATP-dependent RNA helicase DbpA
+putative manganese catalase
+putative protein YpbG
+Adapter protein MecA 2
+Cryptic catabolic NAD-specific glutamate dehydrogenase GudB
+Ferredoxin--NADP reductase
+putative L-asparaginase
+Protease PrsW
+Spore cortex-lytic enzyme
+Sporulation protein YpeB
+Cytidylate kinase
+1-acyl-sn-glycerol-3-phosphate acyltransferase
+30S ribosomal protein S1 
+Isopentenyl-diphosphate delta-isomerase
+GTPase Der
+Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+Stage IV sporulation protein A
+DNA-binding protein HU 1
+GTP cyclohydrolase 1
+Transcription attenuation protein MtrB
+Demethylmenaquinone methyltransferase
+Heptaprenyl diphosphate synthase component 2
+Nucleoside diphosphate kinase
+Chorismate synthase
+3-dehydroquinate synthase
+Chorismate mutase AroH
+Histidinol-phosphate aminotransferase
+3-phosphoshikimate 1-carboxyvinyltransferase 1
+Beta-barrel assembly-enhancing protease
+Cytochrome b6-f complex iron-sulfur subunit
+Menaquinol-cytochrome c reductase cytochrome b subunit
+Cytochrome b6-f complex subunit 4
+putative protein YpjD
+4-hydroxy-tetrahydrodipicolinate reductase
+Methylglyoxal synthase
+N-acetyl-alpha-D-glucosaminyl L-malate deacetylase 1
+N-acetyl-alpha-D-glucosaminyl L-malate synthase
+CCA-adding enzyme
+Bifunctional ligase/repressor BirA
+3-methyl-2-oxobutanoate hydroxymethyltransferase
+Pantothenate synthetase
+Aspartate 1-decarboxylase
+3'-5' exonuclease DinG
+putative protein YpmB
+Aspartate aminotransferase
+DNA replication protein DnaD
+Endonuclease III
+Penicillin-binding protein 1A/1B
+Holliday junction resolvase RecU
+putative protein YppE
+18 kDa heat shock protein
+Anaerobic regulatory protein
+ATP-dependent RNA helicase DbpA
+Cell cycle protein GpsB
+Ribosomal RNA large subunit methyltransferase L
+putative ATP-dependent helicase DinG 
+Fe-S protein maturation auxiliary factor SufT
+Cyclic AMP receptor protein
+Carboxypeptidase 1
+Cytochrome c oxidase subunit 1
+Cytochrome c oxidase subunit 2
+Alpha-pyrone synthesis polyketide synthase-like Pks11
+GTPase Der
+3-mercaptopyruvate sulfurtransferase
+5'-3' exonuclease
+14.7 kDa ribonuclease H-like protein
+DNA topoisomerase 3
+HTH-type transcriptional regulator MntR
+Homoserine O-acetyltransferase
+Formate--tetrahydrofolate ligase 1
+Protein DegV
+putative protein YedJ
+Energy-dependent translational throttle protein EttA
+General stress protein 16U
+Cysteine protease StiP
+TelA-like protein
+Stress response protein SCP2
+General stress protein 16U
+Thymidylate synthase 2
+IS1595 family transposase ISSsu9
+Sec-independent protein translocase protein TatAd
+Sec-independent protein translocase protein TatCd
+DegV domain-containing protein
+SCO1 protein 
+Small ribosomal subunit biogenesis GTPase RsgA
+Peptide methionine sulfoxide reductase MsrA
+Peptide methionine sulfoxide reductase MsrB
+Ktr system potassium uptake protein B
+Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+Acetate CoA-transferase subunit alpha
+putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B
+N-formyl-4-amino-5-aminomethyl-2-methylpyrimidine deformylase
+N-acetyltransferase YodP
+Arginine utilization regulatory protein RocR
+L-lysine 2%2C3-aminomutase
+Chromosomal replication initiator protein DnaA
+DNA-invertase hin
+Purine nucleoside phosphorylase DeoD-type
+Copper-exporting P-type ATPase
+Carboxy-terminal processing protease CtpA
+Putative metal chaperone YciC
+Salt stress-responsive protein YocM
+Spore germination protein GerT
+3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Imidazolonepropionase
+Negative regulatory protein YxlE
+putative ABC transporter ATP-binding protein YxlF
+putative transmembrane protein YxlG
+Diaminopimelate epimerase
+Bifunctional non-homologous end joining protein LigD
+Non-homologous end joining protein Ku
+Cold shock protein CspB
+tRNA-Ser(cga)
+tRNA-Gly(ccc)
+Lactose phosphotransferase system repressor
+Tagatose-6-phosphate kinase
+PTS system fructose-specific EIIABC component
+Bacillibactin exporter
+Anthranilate synthase component 1
+Aminodeoxychorismate synthase component 2
+Anthranilate phosphoribosyltransferase 2
+Indole-3-glycerol phosphate synthase
+N-(5'-phosphoribosyl)anthranilate isomerase
+Tryptophan synthase beta chain
+Tryptophan synthase alpha chain
+tRNA 2-selenouridine synthase
+Response regulator ArlR
+Signal transduction histidine-protein kinase ArlS
+2-oxoglutarate dehydrogenase E1 component
+Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+3-[(3aS%2C4S%2C7aS)-7a-methyl-1%2C5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+Membrane protein insertase MisCB
+Pyruvate formate-lyase-activating enzyme
+Formate acetyltransferase
+Phosphatidylglycerol lysyltransferase
+Molybdenum transport system permease protein ModB
+Salt stress-responsive protein YocM
+putative ABC transporter ATP-binding protein YbiT
+Holin-like protein CidA
+Holin-like protein CidB
+Endonuclease MutS2
+Adaptive-response sensory-kinase SasA
+Putative formate dehydrogenase
+Formate dehydrogenase H
+Nitrate/nitrite transporter NarK
+Ktr system potassium uptake protein B
+Ktr system potassium uptake protein A
+Putative acyl-CoA dehydrogenase YdbM
+Lipoteichoic acid synthase 2
+Na(+)/H(+)-K(+) antiporter GerN
+Energy-coupling factor transporter ATP-binding protein EcfA2
+4-hydroxyphenylpyruvate dioxygenase
+putative protein YisK
+Homogentisate 1%2C2-dioxygenase
+putative Nudix hydrolase NudL
+Aspartokinase 3
+Heme response regulator HssR
+Heme sensor protein HssS
+Putative hemin import ATP-binding protein HrtA
+Bifunctional F420 biosynthesis protein FbiB
+Inosine-5'-monophosphate dehydrogenase
+Transcription elongation factor GreB
+Chromosome-anchoring protein RacA
+Poly-beta-1%2C6-N-acetyl-D-glucosamine N-deacetylase
+Cysteine desulfurase
+Putative L%2CD-transpeptidase YkuD
+Urease subunit gamma
+Urease subunit beta
+Urease subunit alpha
+Urease accessory protein UreE
+Urease accessory protein UreF
+Urease accessory protein UreG
+Urease accessory protein UreD
+Urea transporter
+RNA polymerase sigma factor YlaC
+putative anti-sigma-M factor YhdL
+DNA helicase IV
+Asparagine--tRNA ligase
+Lysine-specific permease
+Sigma-G-dependent sporulation-specific SASP protein
+2-methoxy-6-polyprenyl-1%2C4-benzoquinol methylase%2C mitochondrial
+putative protein YpbG
+HTH-type transcriptional repressor KstR2
+Quinone oxidoreductase 1
+Transcriptional regulatory protein SrrA
+Sensor histidine kinase RcsC
+Serine protease Do-like HtrA
+Energy-dependent translational throttle protein EttA
+Na(+)/H(+) antiporter NhaC
+Response regulator ArlR
+Adaptive-response sensory-kinase SasA
+G/U mismatch-specific DNA glycosylase
+Sporulenol synthase
+Peptidyl-prolyl cis-trans isomerase B
+Exodeoxyribonuclease
+putative methyltransferase YcgJ
+16S ribosomal RNA
+23S ribosomal RNA
+5S ribosomal RNA
+tRNA-Val(tac)
+tRNA-Leu(tag)
+tRNA-Gly(gcc)
+tRNA-Leu(taa)
+tRNA-Pro(tgg)
+tRNA-Met(cat)
+tRNA-Ser(tga)
+tRNA-Tyr(gta)
+tRNA-Trp(cca)
+tRNA-Leu(caa)
+Formamidopyrimidine-DNA glycosylase
+Transcriptional repressor CcpN
+Putative pyruvate%2C phosphate dikinase regulatory protein
+Pyruvate%2C phosphate dikinase
+ATP-dependent RNA helicase DeaD
+Bis(5'-nucleosyl)-tetraphosphatase%2C symmetrical
+Putative sporulation-specific glycosylase YdhD
+D-alanyl-D-alanine carboxypeptidase DacC
+Fatty acid desaturase
+Transcriptional regulatory protein DesR
+Long-chain acyl-CoA thioesterase FadM
+Inner spore coat protein H
+Long-chain-fatty-acid--CoA ligase
+Putative ring-cleaving dioxygenase MhqA
+putative sensor histidine kinase pdtaS
+putative transcriptional regulatory protein pdtaR
+Ethanolamine utilization protein EutS
+Propanediol utilization protein PduV
+Ethanolamine ammonia-lyase heavy chain
+Ethanolamine ammonia-lyase light chain
+Ethanolamine utilization protein EutL
+Aldehyde-alcohol dehydrogenase
+Propanediol utilization protein PduA
+Malate dehydrogenase
+Glucose-1-phosphate adenylyltransferase
+Divalent metal cation transporter MntH
+Pyrophosphatase PpaX
+HTH-type transcriptional repressor GamR
+Lichenan-specific phosphotransferase enzyme IIB component
+Lichenan permease IIC component
+putative 6-phospho-beta-glucosidase
+Lichenan-specific phosphotransferase enzyme IIA component
+Chitooligosaccharide deacetylase ChbG
+Polyribonucleotide nucleotidyltransferase
+Branched-chain amino acid transport system 2 carrier protein
+Cold shock-like protein CspLA
+Fatty acid resistance protein FarB
+HTH-type transcriptional regulator CysL
+HTH-type transcriptional repressor NagR
+Alanine dehydrogenase
+Taurine--pyruvate aminotransferase
+Sulfoacetaldehyde acetyltransferase
+GABA permease
+Taurine import ATP-binding protein TauB
+Taurine-binding periplasmic protein
+Putative aliphatic sulfonates transport permease protein SsuC
+F420-dependent glucose-6-phosphate dehydrogenase
+(R)-specific enoyl-CoA hydratase
+Anaerobic nitric oxide reductase transcription regulator NorR
+Caffeyl-CoA reductase-Etf complex subunit CarC
+1%2C4-dihydroxy-2-naphthoyl-CoA synthase
+Medium-chain fatty-acid--CoA ligase
+3-oxoacyl-[acyl-carrier-protein] reductase
+Acyl-CoA dehydrogenase
+Acyl-CoA dehydrogenase
+Pyrrolidone-carboxylate peptidase
+Xaa-Pro aminopeptidase
+Putative glutamine amidotransferase
+Hydroxyacylglutathione hydrolase
+Quinol oxidase subunit 2
+Quinol oxidase subunit 1
+Quinol oxidase subunit 3
+Quinol oxidase subunit 4
+5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+Oxidoreductase P35
+HTH-type transcriptional regulator CysL
+Sulfoacetaldehyde dehydrogenase (acylating)
+Succinate--CoA ligase [GDP-forming] subunit beta
+Succinate--CoA ligase [ADP-forming] subunit alpha
+putative sulfoacetate transporter SauU
+DNA helicase IV
+Mycothiol acetyltransferase
+Malate dehydrogenase
+Regulatory protein AtoC
+Guanidinobutyrase
+High-affinity proline transporter PutP
+Cell wall hydrolase CwlJ
+Fatty acid-binding protein
+Gentisate 1%2C2-dioxygenase
+3-hydroxybenzoate 6-hydroxylase
+General stress protein 39
+Regulator of RpoS
+HTH-type transcriptional activator CmpR
+putative MFS-type transporter YfcJ
+Universal stress protein
+Regulatory protein Spx
+Putative HTH-type transcriptional regulator YwnA
+Dihydroanticapsin 7-dehydrogenase
+UV DNA damage endonuclease
+Thiazole tautomerase
+Glycine oxidase
+Sulfur carrier protein ThiS
+Thiazole synthase
+Arylamine N-acetyltransferase / N-hydroxyarylamine O-acetyltransferase
+putative protein
+Lipoprotein signal peptidase
+Glutamine-binding periplasmic protein
+Glutamine transport system permease protein GlnP
+Glutamine transport ATP-binding protein GlnQ
+Putative teichuronic acid biosynthesis glycosyltransferase TuaH
+Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+Teichuronic acid biosynthesis protein TuaF
+Teichuronic acid biosynthesis protein TuaE
+UDP-glucose 4-epimerase
+UDP-glucose 6-dehydrogenase TuaD
+Putative teichuronic acid biosynthesis glycosyltransferase TuaC
+Teichuronic acid biosynthesis protein TuaB
+Cytochrome c551 peroxidase
+HTH-type transcriptional repressor NagR
+Putative HMP/thiamine permease protein YkoE
+Putative HMP/thiamine import ATP-binding protein YkoD
+Putative HMP/thiamine permease protein YkoC
+2-phosphosulfolactate phosphatase
+Purine nucleoside phosphorylase DeoD-type
+Succinate-semialdehyde dehydrogenase [NADP(+)]
+L-arabonate dehydratase
+S-methyl-5'-thioadenosine phosphorylase
+S-methyl-5'-thioadenosine phosphorylase
+5-methylthioadenosine/S-adenosylhomocysteine deaminase
+5-deoxy-D-ribulose 1-phosphate aldolase
+Methylthioribose-1-phosphate isomerase
+IS3 family transposase ISWco1
+Carboxylesterase NlhH
+Phenylacetone monooxygenase
+HTH-type transcriptional regulator MhqR
+Intracellular iron chaperone frataxin
+ABC transporter periplasmic-binding protein YtfQ
+Protein-glutamate methylesterase/protein-glutamine glutaminase
+HTH-type transcriptional repressor PurR
+Fructose import ATP-binding protein FruK
+Inner membrane ABC transporter permease protein YtfT
+Inner membrane ABC transporter permease protein YjfF
+Beta-galactosidase
+Hca operon transcriptional activator HcaR
+putative protein
+Inner membrane transport protein YdhP
+Serine/threonine-protein phosphatase 3
+Protein kinase YegI
+Imidazolonepropionase
+IS3 family transposase ISEnfa5
+IS3 family transposase ISEnfa5
+7-cyano-7-deazaguanine synthase
+7-carboxy-7-deazaguanine synthase
+HTH-type transcriptional repressor NanR
+3-oxoadipate enol-lactonase 2
+putative protein YisK
+Imidazolonepropionase
+Major cardiolipin synthase ClsA
+ATP-dependent zinc metalloprotease FtsH
+Phenylacetaldehyde dehydrogenase
+putative oxidoreductase
+Acetyl-CoA:oxalate CoA-transferase
+Acyl-CoA dehydrogenase
+N-acetyldiaminopimelate deacetylase
+putative response regulatory protein
+Dipeptide transport ATP-binding protein DppD
+Vitamin B12 import ATP-binding protein BtuD
+Glutathione transport system permease protein GsiC
+Glutathione transport system permease protein GsiD
+Oligopeptide-binding protein AppA
+2-hydroxy-1%2C4-benzoquinone reductase
+HTH-type transcriptional activator HxlR
+NAD(P)H-dependent FAD/FMN reductase
+Acetyltransferase YpeA
+Glycine betaine transport ATP-binding protein OpuAA
+Zinc transporter ZupT
+Xaa-Pro aminopeptidase
+NAD(P)H-quinone oxidoreductase subunit I%2C chloroplastic
+Protein LacX%2C plasmid
+Alkyl hydroperoxide reductase AhpD
+Undecaprenyl-diphosphatase
+3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase
+Intracellular serine protease
+L-cystine-binding protein FliY
+L-cystine transport system permease protein YecS
+Arginine transport ATP-binding protein ArtM
+IS1595 family transposase ISLca5
+Protein flp
+O-acetyl-ADP-ribose deacetylase
+Ribose-phosphate pyrophosphokinase
+Serine/threonine transporter SstT
+Protein adenylyltransferase SelO
+2-methoxy-6-polyprenyl-1%2C4-benzoquinol methylase%2C mitochondrial
+Endolytic murein transglycosylase
+3-dehydro-scyllo-inosose hydrolase
+Pyrroloquinoline-quinone synthase
+Aldehyde dehydrogenase%2C thermostable
+putative chromate transport protein
+Anaerobic nitric oxide reductase transcription regulator NorR
+Acetophenone carboxylase gamma subunit
+Acetophenone carboxylase delta subunit
+Putrescine importer PuuP
+Lysine 6-dehydrogenase
+4-hydroxy-tetrahydrodipicolinate synthase
+Metalloprotease TldD
+2-dehydropantoate 2-reductase
+Glycine oxidase
+Small%2C acid-soluble spore protein 2
+4-nitrophenol 4-monooxygenase/4-nitrocatechol 2-monooxygenase%2C reductase component
+Anthranilate 3-monooxygenase oxygenase component
+Putative bifunctional riboflavin kinase/FMN adenylyltransferase
+N-carbamoyl-L-amino acid hydrolase
+Anthranilate 3-monooxygenase oxygenase component
+Leucine-%2C isoleucine-%2C valine-%2C threonine-%2C and alanine-binding protein
+High-affinity branched-chain amino acid transport system permease protein LivH
+Arginine transport ATP-binding protein ArtM
+High-affinity branched-chain amino acid transport ATP-binding protein LivF
+Putative aminoacrylate peracid reductase RutC
+Fructokinase
+Hydroxyacylglutathione hydrolase
+Glyoxylate/hydroxypyruvate reductase B
+Cystathionine beta-lyase PatB
+Cell division protein FtsZ
+Purine catabolism protein PucB
+Respiratory nitrate reductase 1 alpha chain
+Respiratory nitrate reductase 2 beta chain
+Nitrate reductase molybdenum cofactor assembly chaperone NarJ
+Nitrate reductase-like protein NarX
+Proline dehydrogenase 1
+Cyclopropane-fatty-acyl-phospholipid synthase
+Endonuclease YhcR
+Oligoendopeptidase F%2C plasmid
+Multidrug export protein EmrB
+Vitamin B12-binding protein
+Sulfur carrier protein DsrE2
+Thiosulfate sulfurtransferase GlpE
+Hydroxyacylglutathione hydrolase
+Glutamate synthase [NADPH] small chain
+NAD-dependent dihydropyrimidine dehydrogenase subunit PreA
+D-hydantoinase
+Hydantoin permease
+Taurine--pyruvate aminotransferase
+Deoxyribonucleoside regulator
+Phosphate propanoyltransferase
+Ethanolamine utilization protein EutN
+Succinate-semialdehyde dehydrogenase (acetylating)
+Propanediol utilization protein PduA
+Triosephosphate isomerase
+Putative sugar phosphate isomerase YwlF
+Carbon dioxide concentrating mechanism protein CcmL
+Propanediol utilization protein PduA
+Ethanolamine utilization protein EutN
+Deoxyribose-phosphate aldolase
+RecBCD enzyme subunit RecD
+Putative hydrolase MhqD
+Glutamate 5-kinase 1
+Gamma-glutamyl phosphate reductase
+3'-5' exonuclease DinG
+Fe(2+) transporter FeoB
+Fe(2+) transporter FeoB
+N-substituted formamide deformylase
+Oligoendopeptidase F%2C plasmid
+Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+ATPase RavA
+ECF RNA polymerase sigma factor SigM
+Linearmycin resistance ATP-binding protein LnrL
+Linearmycin resistance permease protein LnrN
+ATP-dependent zinc metalloprotease FtsH 4
+Thiol-disulfide oxidoreductase ResA
+D-alanyl-D-alanine carboxypeptidase DacB
+HTH-type transcriptional regulatory protein GabR
+Pyridoxal 5'-phosphate synthase subunit PdxS
+Pyridoxal 5'-phosphate synthase subunit PdxT
+Tyrosine recombinase XerS
+Fatty acid ABC transporter ATP-binding/permease protein
+putative ABC transporter ATP-binding protein
+DNA topoisomerase 4 subunit A
+DNA topoisomerase 4 subunit B
+putative protein YccU
+Signal transduction histidine-protein kinase AtoS
+Glycerol-3-phosphate acyltransferase
+Acyl-CoA thioester hydrolase YbgC
+Holliday junction ATP-dependent DNA helicase RuvB
+Small%2C acid-soluble spore protein Tlp
+Small%2C acid-soluble spore protein N
+Thiol-disulfide oxidoreductase ResA
+Methylthioribulose-1-phosphate dehydratase
+5-deoxyribose 1-phosphate isomerase
+Nucleotide-binding protein ExpZ
+Aconitate/2-methylaconitate hydratase
+Small%2C acid-soluble spore protein O
+Small%2C acid-soluble spore protein P
+L-seryl-tRNA(Sec) selenium transferase
+Selenide%2C water dikinase
+putative epimerase/dehydratase
+Putative pyridoxal phosphate-dependent acyltransferase
+Xanthine phosphoribosyltransferase
+Nucleobase transporter PlUacP
+putative ABC transporter ATP-binding protein YbiT
+putative ABC transporter phosphite binding protein PhnD1
+Phosphate-import ATP-binding protein PhnC
+Tetracycline resistance protein%2C class C
+Methionine aminopeptidase
+Arsenical pump membrane protein
+Inner spore coat protein H
+Nitronate monooxygenase
+SOS response-associated protein YedK
+putative peptidoglycan endopeptidase LytE
+Peptidoglycan glycosyltransferase MrdB
+Peptidoglycan glycosyltransferase MrdB
+putative inner membrane transporter YicL
+Glycine betaine-binding protein OpuAC
+Glycine betaine transport system permease protein OpuAB
+Glycine betaine transport ATP-binding protein OpuAA
+HTH-type transcriptional repressor OpcR
+putative transcriptional regulatory protein
+L-threonine dehydratase biosynthetic IlvA
+N-acetylcysteine deacetylase
+N-acetylcysteine deacetylase
+Quinolone resistance protein NorB
+Multidrug resistance protein 3
+Sporulation kinase E
+Bacillopeptidase F
+Proline iminopeptidase
+Peptidoglycan glycosyltransferase RodA
+Regulatory protein MsrR
+putative sporulation protein YtaF
+Tetracycline resistance protein TetM from transposon TnFO1
+Staphyloferrin B transporter
+Riboflavin transporter RfnT
+Spore photoproduct lyase
+General stress protein 26
+UV DNA damage endonuclease
+Putative heme-dependent peroxidase
+Bifunctional AAC/APH
+RNA polymerase sigma factor SigV
+Adaptive-response sensory-kinase SasA
+Transcriptional regulatory protein SrrA
+putative protein YyaP
+Aminopeptidase YwaD
+Alcohol dehydrogenase
+Bicarbonate transporter BicA
+putative oxidoreductase
+Cysteine synthase
+Acyl-CoA dehydrogenase%2C short-chain specific
+Putative aliphatic sulfonates transport permease protein SsuC
+Aliphatic sulfonates import ATP-binding protein SsuB
+Catalase
+Catalase
+Trifunctional nucleotide phosphoesterase protein YfkN
+Arginine utilization regulatory protein RocR
+Anaerobic nitric oxide reductase transcription regulator NorR
+Alanine dehydrogenase
+Spore germination protein XA
+Spore germination protein B3
+D-inositol-3-phosphate glycosyltransferase
+Spore coat protein I
+Putative pterin-4-alpha-carbinolamine dehydratase
+Regulatory protein YeiL
+putative 3-phenylpropionic acid transporter
+FMN reductase (NADPH)
+Small%2C acid-soluble spore protein H
+5S ribosomal RNA
+23S ribosomal RNA
+16S ribosomal RNA
+Spermidine N(1)-acetyltransferase
+Regulatory protein MsrR
+Uracil permease
+Protein YiiM
+putative HTH-type transcriptional regulator
+Vitamin B12 import ATP-binding protein BtuD
+Swarming motility protein SwrC
+Hypoxic response protein 1
+Alpha-ketoglutarate permease
+Regulatory protein AtoC
+Adaptive-response sensory-kinase SasA
+2-haloacrylate reductase
+Glucose/mannose transporter GlcP
+IS200/IS605 family transposase ISBth14
+Purine efflux pump PbuE
+ATP-dependent DNA helicase Rep
+UvrABC system protein B
+Type-2 restriction enzyme Sau3AI
+Modification methylase HhaI
+ATP-dependent DNA helicase Rep
+ATP-dependent DNA helicase PcrA
+putative protein YjdJ
+Miniconductance mechanosensitive channel YbdG
+Miniconductance mechanosensitive channel YbdG
+Phthiocerol synthesis polyketide synthase type I PpsC
+Arsenical pump-driving ATPase
+Arsenical resistance operon trans-acting repressor ArsD
+Arsenate reductase
+Aquaporin Z 2
+Cadmium-induced protein CadI
+Putative phosphinothricin acetyltransferase YwnH
+2-hydroxymuconic semialdehyde dehydrogenase
+2-hydroxymuconate tautomerase
+2-hydroxyhexa-2%2C4-dienoate hydratase
+2-oxo-hept-4-ene-1%2C7-dioate hydratase
+4-hydroxy-2-oxovalerate aldolase
+Acetaldehyde dehydrogenase
+Manganese-dependent 2%2C3-dihydroxybiphenyl 1%2C2-dioxygenase
+HTH-type transcriptional regulator XynR
+RNA polymerase-binding transcription factor CarD
+Low molecular weight protein-tyrosine-phosphatase YfkJ
+IS110 family transposase ISGka2
+IS110 family transposase ISArsp3
+Release factor glutamine methyltransferase
+Beta-hexosaminidase
+IS110 family transposase IS653
+Glucitol operon repressor
+putative HTH-type transcriptional regulator YdjF
+putative protein
+IS110 family transposase ISAzo28
+Glycerate 2-kinase
+General stress protein 16O
+Quinone oxidoreductase 2
+Putative HTH-type transcriptional regulator YwnA
+2%2C5-diketo-D-gluconic acid reductase B
+C4-dicarboxylate transport protein
+Sensor histidine kinase DcuS
+Transcriptional regulatory protein DcuR
+putative protein YflH
+High-affinity branched-chain amino acid transport ATP-binding protein LivF
+Lipopolysaccharide export system ATP-binding protein LptB
+High-affinity branched-chain amino acid transport system permease protein LivH
+Leucine-%2C isoleucine-%2C valine-%2C threonine-%2C and alanine-binding protein
+Low specificity L-threonine aldolase
+putative amino-acid import ATP-binding protein YxeO
+N-succinyl-L-Arg/Lys racemase
+Sulfur carrier protein FdhD
+putative oxidoreductase
+Xaa-Pro dipeptidyl-peptidase
+Sulfite reductase [NADPH] hemoprotein beta-component
+Sulfite reductase [NADPH] flavoprotein alpha-component
+Sirohydrochlorin ferrochelatase
+Uroporphyrinogen-III C-methyltransferase
+putative adenylyl-sulfate kinase
+Sulfate adenylyltransferase
+Sulfate permease CysP
+Phosphoadenosine phosphosulfate reductase
+ATP-dependent Clp protease proteolytic subunit
+Transcriptional regulatory protein DpiA
+Sensor protein CitS
+Multidrug resistance protein NorM
+Protein-glutamine gamma-glutamyltransferase
+Alkanal monooxygenase alpha chain
+Catechol-2%2C3-dioxygenase
+Putative oxidoreductase CatD
+HTH-type transcriptional regulator YodB
+Formylaminopyrimidine-binding protein
+Riboflavin transport system permease protein RibX
+Bicarbonate transport ATP-binding protein CmpD
+Aminopyrimidine aminohydrolase
+Thiamine-phosphate synthase
+Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+Hydroxyethylthiazole kinase
+UTP--glucose-1-phosphate uridylyltransferase
+D-inositol-3-phosphate glycosyltransferase
+Formimidoylglutamase
+Imidazolonepropionase
+Urocanate hydratase
+HTH-type transcriptional activator RhaR
+General stress protein 16U
+Monoterpene epsilon-lactone hydrolase
+Inosine-5'-monophosphate dehydrogenase
+GTP pyrophosphokinase YwaC
+DNA-3-methyladenine glycosylase 1
+IS3 family transposase ISBce15
+Manganese-dependent inorganic pyrophosphatase
+3-oxoacyl-[acyl-carrier-protein] reductase
+3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Acyl-CoA dehydrogenase
+Putative phosphinothricin acetyltransferase YwnH
+Sporulation kinase E
+Spore germination protein YndE
+Spore germination protein B3
+Spore germination protein B1
+L-glyceraldehyde 3-phosphate reductase
+Na(+)%2C Li(+)%2C K(+)/H(+) antiporter
+ABC transporter permease YtrF
+ABC transporter ATP-binding protein YtrE
+Penicillin-binding protein 1F
+Corrinoid adenosyltransferase
+2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase
+Adenosylcobinamide-GDP ribazoletransferase
+Cobyric acid synthase
+Bifunctional adenosylcobalamin biosynthesis protein CobU
+Threonine-phosphate decarboxylase
+Cobalamin biosynthesis protein CobD
+Vitamin B12 import ATP-binding protein BtuD
+Hemin transport system permease protein HmuU
+Vitamin B12-binding protein
+6%2C7-dimethyl-8-ribityllumazine synthase
+Riboflavin biosynthesis protein RibBA
+Riboflavin synthase
+Riboflavin biosynthesis protein RibD
+Putative ketoacyl reductase
+Vegetative catalase
+Cold shock-like protein CspLA
+5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+Putative multidrug export ATP-binding/permease protein
+Quinol oxidase subunit 2
+Quinol oxidase subunit 1
+Quinol oxidase subunit 3
+Quinol oxidase subunit 4
+Alkaline phosphatase synthesis transcriptional regulatory protein SphR
+Adaptive-response sensory-kinase SasA
+Vitamin B12 import ATP-binding protein BtuD
+Carboxypeptidase 1
+Penicillin-binding protein H
+Nicotinate dehydrogenase small FeS subunit
+Carbon monoxide dehydrogenase medium chain
+Putative xanthine dehydrogenase molybdenum-binding subunit XdhA
+putative xanthine dehydrogenase subunit A
+Spore coat protein A
+Antiseptic resistance protein
+TVP38/TMEM64 family inner membrane protein YdjZ
+Adaptive-response sensory-kinase SasA
+Putative mycofactocin radical SAM maturase MftC
+Spore germination protein B3
+Spore germination protein B1
+Cobalt/magnesium transport protein CorA
+Putative aminopeptidase YsdC
+D-alanine--D-alanyl carrier protein ligase
+D-alanyl carrier protein
+Protein DltD
+Sec-independent protein translocase protein TatAd
+NADH dehydrogenase-like protein
+Bacitracin transport ATP-binding protein BcrA
+Flavohemoprotein
+DegV domain-containing protein
+Proline--tRNA ligase
+Sensor histidine kinase RcsC
+Response regulator MprA
+Macrolide export ATP-binding/permease protein MacB
+putative ABC transporter ATP-binding protein YknY
+Sodium/proton-dependent alanine carrier protein
+Selenocysteine-specific elongation factor
+KsdD-like steroid dehydrogenase
+Chromosome partition protein Smc
+Nuclease SbcCD subunit D
+Cold shock-like protein CspD
+putative HTH-type transcriptional regulator
+C4-dicarboxylic acid transporter DauA
+putative protein
+Ornithine aminotransferase
+Arginine utilization regulatory protein RocR
+Acetyl esterase
+Guanine deaminase
+Carbamate kinase 1
+Protein FdrA
+Purine catabolism regulatory protein
+N-isopropylammelide isopropyl amidohydrolase
+N-isopropylammelide isopropyl amidohydrolase
+Glutathione-binding protein GsiB
+Glutathione transport system permease protein GsiD
+Glutathione transport system permease protein GsiC
+Oligopeptide transport ATP-binding protein OppD
+Oligopeptide transport ATP-binding protein OppF
+Sensor histidine kinase BtsS
+putative response regulatory protein
+N-isopropylammelide isopropyl amidohydrolase
+Glutathione-binding protein GsiB
+5'-deoxyadenosine deaminase
+Atrazine chlorohydrolase
+Aspartate ammonia-lyase
+Multidrug efflux protein YfmO
+protein kinase UbiB
+Nucleobase transporter PlAzg2
+CRP-like cAMP-activated global transcriptional regulator
+Peptidoglycan-N-acetylglucosamine deacetylase
+(S)-ureidoglycine--glyoxylate transaminase
+Undecaprenyl-diphosphatase BcrC
+Putative fluoride ion transporter CrcB
+Putative fluoride ion transporter CrcB
+Membrane lipoprotein TmpC
+Pseudouridine kinase
+Pseudouridine-5'-phosphate glycosidase
+Formyltetrahydrofolate deformylase
+Dihydrolipoyl dehydrogenase
+D-serine/D-alanine/glycine transporter
+D-serine dehydratase
+Maltose O-acetyltransferase
+Caffeyl-CoA reductase-Etf complex subunit CarE
+Caffeyl-CoA reductase-Etf complex subunit CarD
+Sensor histidine kinase GlnK
+Protein-glutamate methylesterase/protein-glutamine glutaminase
+FMN-dependent NADH-azoreductase
+Sporulenol synthase
+Epimerase family protein
+tRNA-SeC(tca)
+Chemotaxis protein CheY
+putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+DNA-invertase hin
+Tyrosine recombinase XerD
+Sporulation inhibitor of replication protein SirA
+Protease HtpX
+Transketolase
+Resolvase YneB
+Cell division suppressor protein YneA
+LexA repressor
+Glutamine synthetase
+HTH-type transcriptional regulator GlnR
+GTPase HflX
+Stage V sporulation protein K
+RNA-binding protein Hfq
+tRNA dimethylallyltransferase
+Cell shape-determining protein MreBH
+DNA mismatch repair protein MutL
+DNA mismatch repair protein MutS
+ECF RNA polymerase sigma factor SigX
+tRNA-Arg(cct)
+GABA permease
+2-aminoadipate transaminase
+HTH-type transcriptional regulator NorG
+Putative ring-cleaving dioxygenase MhqO
+HTH-type transcriptional regulator MhqR
+4-hydroxy-2-oxovalerate aldolase
+Putative transport protein
+4-hydroxyphenylacetate 3-monooxygenase oxygenase component
+Leucine efflux protein
+NADH-dependent flavin reductase
+GTP 3'%2C8-cyclase
+Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+putative HTH-type transcriptional regulator
+IS1595 family transposase ISSpgl1
+Spore coat protein E
+putative protein YmcA
+tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+2-oxoglutarate oxidoreductase subunit KorA
+Stage V sporulation protein S
+2'%2C3'-cyclic-nucleotide 2'-phosphodiesterase
+Ribonuclease Y
+Protein RecA
+Putative competence-damage inducible protein
+CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+putative protein YflH
+3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Galactose/methyl galactoside import ATP-binding protein MglA
+Membrane lipoprotein TmpC
+HTH-type transcriptional repressor NagR
+DNA translocase SpoIIIE
+Translocation-enhancing protein TepA
+Ribonuclease J2
+4-hydroxy-tetrahydrodipicolinate synthase
+Aspartokinase
+Aspartate-semialdehyde dehydrogenase
+Dipicolinate synthase subunit B
+Dipicolinate synthase subunit A
+putative sporulation protein YlmC
+putative zinc protease
+Polyribonucleotide nucleotidyltransferase
+30S ribosomal protein S15
+Bifunctional riboflavin kinase/FMN adenylyltransferase
+tRNA pseudouridine synthase B
+Ribosome-binding factor A
+Translation initiation factor IF-2
+putative ribosomal protein YlxQ
+Transcription termination/antitermination protein NusA
+Ribosome maturation factor RimP
+DNA polymerase III PolC-type
+Regulator of sigma-W protease RasP
+1-deoxy-D-xylulose 5-phosphate reductoisomerase
+Isoprenyl transferase
+Ribosome-recycling factor
+Uridylate kinase
+Elongation factor Ts
+30S ribosomal protein S2
+GTP-sensing transcriptional pleiotropic repressor CodY
+ATP-dependent protease ATPase subunit ClpY
+ATP-dependent protease subunit HslV
+Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+DNA topoisomerase 1
+Succinate--CoA ligase [ADP-forming] subunit alpha
+Succinate--CoA ligase [ADP-forming] subunit beta
+Ribonuclease HII
+L-serine dehydratase%2C alpha chain
+L-serine dehydratase%2C beta chain
+Ribosome biogenesis GTPase A
+Signal peptidase I T
+50S ribosomal protein L19
+tRNA (guanine-N(1)-)-methyltransferase
+Ribosome maturation factor RimM
+30S ribosomal protein S16
+Signal recognition particle protein
+Signal recognition particle receptor FtsY
+Chromosome partition protein Smc
+Ribonuclease 3
+Acyl carrier protein
+3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Malonyl CoA-acyl carrier protein transacylase
+Phosphate acyltransferase
+Transcription factor FapR
+ATP-dependent DNA helicase RecG
+L-serine dehydratase%2C alpha chain
+L-serine dehydratase%2C beta chain
+putative protein
+putative protein
+50S ribosomal protein L28
+Thiamine pyrophosphokinase
+Ribulose-phosphate 3-epimerase
+Small ribosomal subunit biogenesis GTPase RsgA
+Serine/threonine-protein kinase PrkC
+Protein phosphatase PrpC
+putative dual-specificity RNA methyltransferase RlmN
+Ribosomal RNA small subunit methyltransferase B
+Methionyl-tRNA formyltransferase
+Peptide deformylase 1
+primosomal protein N'
+Cysteine/Cysteine sulfinic acid decarboxylase
+DNA-directed RNA polymerase subunit omega
+Guanylate kinase
+Extracellular matrix regulatory protein A
+Calcium-transporting ATPase
+Rqc2 RqcH
+IS3 family transposase ISBsp2
+IS3 family transposase ISBsp2
+Orotate phosphoribosyltransferase
+Orotidine 5'-phosphate decarboxylase
+Dihydroorotate dehydrogenase B (NAD(+))%2C catalytic subunit
+Dihydroorotate dehydrogenase B (NAD(+))%2C electron transfer subunit
+Carbamoyl-phosphate synthase large chain
+Carbamoyl-phosphate synthase small chain
+Dihydroorotase
+Aspartate carbamoyltransferase
+Uracil permease
+Bifunctional protein PyrR
+Ribosomal large subunit pseudouridine synthase D
+Lipoprotein signal peptidase
+Isoleucine--tRNA ligase
+Septum site-determining protein DivIVA
+Cell division protein SepF
+Pyridoxal phosphate homeostasis protein
+Polyphenol oxidase
+putative sporulation protein YlmC
+RNA polymerase sigma-G factor
+RNA polymerase sigma-E factor
+Sporulation sigma-E factor-processing peptidase
+Cell division protein FtsZ
+Cell division protein FtsA
+Cell division protein DivIB
+UDP-N-acetylenolpyruvoylglucosamine reductase
+UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+putative peptidoglycan glycosyltransferase FtsW
+UDP-N-acetylmuramoylalanine--D-glutamate ligase
+Phospho-N-acetylmuramoyl-pentapeptide-transferase
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2%2C6-diaminopimelate ligase
+Stage V sporulation protein D
+Penicillin-binding protein 2B
+Cell division protein FtsL
+Ribosomal RNA small subunit methyltransferase H
+Transcriptional regulator MraZ
+Putative cysteine ligase BshC
+2-dehydropantoate 2-reductase
+Methylmalonyl-CoA carboxyltransferase 12S subunit
+Biotin/lipoyl attachment protein
+Biotin carboxylase
+putative N-acetyltransferase YlbP
+Prespore-specific transcriptional regulator RsfA
+2%2C3-dehydroadipyl-CoA hydratase
+50S ribosomal protein L32
+tRNA(Met) cytidine acetate ligase
+putative protein YlbL
+Sporulation integral membrane protein YlbJ
+Phosphopantetheine adenylyltransferase
+Ribosomal RNA small subunit methyltransferase D
+Hypoxic response protein 1
+Cytochrome c oxidase subunit 4B
+Cytochrome c oxidase subunit 3
+Cytochrome c oxidase subunit 1
+Cytochrome c oxidase subunit 2
+Protoheme IX farnesyltransferase 2
+Heme A synthase
+Pyruvate carboxylase
+putative peptidoglycan glycosyltransferase FtsW
+GTP-binding protein TypA/BipA
+Fructose-1%2C6-bisphosphatase/inositol-1-monophosphatase
+NADH:quinone reductase
+Arginine decarboxylase
+Dihydrolipoyl dehydrogenase
+Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+Pyruvate dehydrogenase E1 component subunit beta
+Pyruvate dehydrogenase E1 component subunit alpha
+Peptide deformylase 2
+Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+Ribonuclease J1
+Ktr system potassium uptake protein A
+putative ABC transporter ATP-binding protein
+putative ABC transporter ATP-binding protein
+Thiol-disulfide oxidoreductase YkuV
+Alkyl hydroperoxide reductase C
+N-acetyldiaminopimelate deacetylase
+2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-acetyltransferase
+HTH-type transcriptional regulator CysL
+CBS domain-containing protein YkuL
+putative protein YkuJ
+putative EAL-domain containing protein YkuI
+UDP-2%2C3-diacylglucosamine pyrophosphatase LpxG
+putative signaling protein
+putative N-acetyl-LL-diaminopimelate aminotransferase
+2-hydroxy-3-oxopropionate reductase
+3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Phosphoenolpyruvate-protein phosphotransferase
+Phosphocarrier protein HPr
+ATP-dependent Clp protease ATP-binding subunit ClpE
+ATP-dependent Clp protease ATP-binding subunit ClpE
+HTH-type transcriptional regulator MhqR
+Sporulation kinase D
+Stress response kinase A
+Fosmidomycin resistance protein
+Iron-sulfur cluster repair protein YtfE
+Putative prophage phiRv2 integrase
+IS256 family transposase ISCbe6
+Tyrosine recombinase XerC
+Modification methylase FokI
+Electron transfer flavoprotein-ubiquinone oxidoreductase
+Caffeyl-CoA reductase-Etf complex subunit CarE
+Caffeyl-CoA reductase-Etf complex subunit CarD
+IS3 family transposase ISLsa2
+IS3 family transposase ISLsa2
+Acireductone dioxygenase
+Methylthioribulose-1-phosphate dehydratase
+2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase
+2%2C3-diketo-5-methylthiopentyl-1-phosphate enolase
+Transaminase BacF
+Methylthioribose kinase
+Sporulation kinase E
+NAD(P)H-quinone oxidoreductase subunit I%2C chloroplastic
+Small%2C acid-soluble spore protein D
+RNA polymerase sigma factor SigI
+Peptide chain release factor 3
+ATP-dependent zinc metalloprotease FtsH
+Peptidoglycan DL-endopeptidase CwlO
+Phosphoenolpyruvate carboxylase
+putative protein YcnI
+Copper transport protein YcnJ
+HTH-type transcriptional repressor YcnK
+D-alanine aminotransferase
+Aminodeoxychorismate/anthranilate synthase component 2
+Aminodeoxychorismate synthase component 1
+2-hydroxy-6-oxo-6-phenylhexa-2%2C4-dienoate hydrolase
+Bicyclomycin resistance protein
+Transcriptional regulatory protein DesR
+Sensor histidine kinase DesK
+Tryptophan synthase beta chain
+putative ABC transporter permease YknZ
+putative ABC transporter ATP-binding protein YknY
+Putative efflux system component YknX
+Membrane protein YknW
+Protein LemA
+Cytochrome c oxidase subunit 1
+Cytochrome c oxidase subunit 2
+Protoheme IX farnesyltransferase 2
+IS200/IS605 family transposase ISBth17
+Oxidoreductase YdhF
+putative ABC transporter ATP-binding protein YlmA
+Lactate utilization protein C
+Lactate utilization protein B
+Lactate utilization protein A
+Methylated-DNA--protein-cysteine methyltransferase%2C inducible
+Bifunctional transcriptional activator/DNA repair enzyme AdaA
+DNA-3-methyladenine glycosylase
+Endonuclease III
+Ubiquinone biosynthesis O-methyltransferase%2C mitochondrial
+tRNA-Val(gac)
+Putative phosphoesterase YjcG
+putative N-acetyltransferase YjcF
+Putative ATP-dependent DNA helicase YjcD
+Stage V sporulation protein AD
+Spore coat protein Z
+Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+Glutathione-regulated potassium-efflux system protein KefB
+Bis(5'-nucleosyl)-tetraphosphatase PrpE [asymmetrical]
+Ribosomal large subunit pseudouridine synthase D
+NAD kinase 1
+GTP pyrophosphokinase YjbM
+Putative triphosphatase YjbK
+Group 2 truncated hemoglobin YjbI
+Oligoendopeptidase F%2C plasmid
+Competence protein CoiA
+putative cardiolipin synthase YwiE
+Adapter protein MecA 1
+Regulatory protein Spx
+Oligopeptide transport ATP-binding protein OppF
+Oligopeptide transport ATP-binding protein OppD
+Oligopeptide transport system permease protein OppC
+Oligopeptide transport system permease protein OppB
+Dipeptide-binding protein DppE
+Tryptophan--tRNA ligase
+Dipeptide transport system permease protein DppC
+Glutathione transport system permease protein GsiC
+Oligopeptide-binding protein AppA
+Oligopeptide transport ATP-binding protein OppF
+Oligopeptide transport ATP-binding protein OppD
+3-oxoacyl-[acyl-carrier-protein] synthase 2
+3-oxoacyl-[acyl-carrier-protein] synthase 3 protein 1
+Chaperone protein ClpB
+Anaerobic regulatory protein
+Spore germination protein B1
+Spore germination protein A3
+Spore germination protein YndE
+Molybdopterin molybdenumtransferase
+Iron-sulfur cluster repair protein ScdA
+GTP 3'%2C8-cyclase
+Anaerobic regulatory protein
+Putative mycofactocin radical SAM maturase MftC
+Fe-S protein maturation auxiliary factor SufT
+5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+Fatty acid-binding protein
+Conserved virulence factor B
+General stress protein 39
+Beta/alpha-amylase
+Asparagine synthetase [glutamine-hydrolyzing] 3
+putative oxidoreductase YdhV
+IS3 family transposase ISSth1b
+putative protein YisK
+Putative conjugal transfer protein
+putative spore germination protein GerPA
+putative spore germination protein GerPB
+putative spore germination protein GerPC
+putative spore germination protein GerPD
+putative spore germination protein GerPE
+putative spore germination protein GerPF
+ATP-dependent helicase/nuclease subunit A
+ATP-dependent helicase/deoxyribonuclease subunit B
+Signal peptidase IB
+Regulatory protein MsrR
+Competence transcription factor
+Protease HtpX
+Short-chain-enoyl-CoA hydratase
+Long-chain-fatty-acid--CoA ligase
+Lipoate-protein ligase LplJ
+putative protein
+Chromosome partition protein Smc
+Protoporphyrinogen oxidase
+Ferrochelatase
+Uroporphyrinogen decarboxylase
+Heme-degrading monooxygenase HmoB
+N-acetyldiaminopimelate deacetylase
+ABC-type transporter ATP-binding protein EcsA
+Protein hit
+putative tryptophan transport protein
+HTH-type transcriptional regulator Hpr
+putative protein YhaI
+Foldase protein PrsA 1
+3'-5' exoribonuclease YhaM
+putative protein YhaN
+putative metallophosphoesterase YhaO
+putative protein YhaP
+Multidrug efflux system ATP-binding protein
+Trans-2-decenoyl-[acyl-carrier-protein] isomerase
+Long-chain-fatty-acid--CoA ligase
+Stress response protein YhaX
+Endospore coat-associated protein YheD
+Endospore coat-associated protein YheD
+Endospore coat-associated protein YheD
+Endospore coat-associated protein YheD
+Leucine-rich protein
+Oligosaccharides import ATP-binding protein MsmX
+Small%2C acid-soluble spore protein 1
+Fumarate hydratase class II
+putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+Negative regulatory protein YxlD
+RNA polymerase sigma factor SigY
+Penicillin-binding protein 1F
+Fe(2+) transporter FeoB
+Thiamine transporter ThiT
+Adaptive-response sensory-kinase SasA
+Putative ribosomal N-acetyltransferase YdaF
+Putative two-component membrane permease complex subunit SMU_746c
+Putative two-component membrane permease complex subunit SMU_747c
+Putative two-component membrane permease complex subunit SMU_747c
+Lipoprotein E
+putative transport protein YifK
+Proline-responsive transcriptional activator PutR
+Alanine dehydrogenase
+putative oxidoreductase
+Phosphoglucomutase
+Ribosomal large subunit pseudouridine synthase D
+Pyrroline-5-carboxylate reductase
+Deoxyribose-phosphate aldolase
+Heme uptake protein MmpL11
+2'%2C3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase
+putative transporter
+Pyridinium-3%2C5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+Pyridinium-3%2C5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+Pyridinium-3%2C5-biscarboxylic acid mononucleotide synthase
+Xylulose kinase
+Pyridinium-3%2C5-bisthiocarboxylic acid mononucleotide synthase
+putative oxidoreductase UxuB
+N-acetyl-D-glucosamine kinase
+Myo-inositol 2-dehydrogenase
+HTH-type transcriptional activator RhaR
+6-phosphogluconate dehydrogenase%2C NADP(+)-dependent%2C decarboxylating
+Uronate isomerase
+N-acetylglucosamine repressor
+Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+HTH-type transcriptional repressor PurR
+FMN-dependent NADH-azoreductase 2
+Adaptive-response sensory-kinase SasA
+HTH-type transcriptional repressor NagR
+Glucosamine-6-phosphate deaminase 1
+N-acetylglucosamine-6-phosphate deacetylase
+tRNA (cytidine(34)-2'-O)-methyltransferase
+Epoxyqueuosine reductase
+tRNA-Gly(tcc)
+Major biofilm matrix component
+tRNA-Leu(caa)
+tRNA-Leu(taa)
+tRNA-Cys(gca)
+tRNA-Gly(gcc)
+tRNA-Gln(ttg)
+tRNA-His(gtg)
+tRNA-Trp(cca)
+tRNA-Tyr(gta)
+tRNA-Thr(cgt)
+tRNA-Phe(gaa)
+tRNA-Asp(gtc)
+tRNA-Met(cat)
+tRNA-Val(tac)
+tRNA-Glu(ttc)
+tRNA-Ser(gga)
+tRNA-Asn(gtt)
+5S ribosomal RNA
+23S ribosomal RNA
+16S ribosomal RNA
+Peroxide operon regulator
+Corrinoid adenosyltransferase
+Putative peroxiredoxin bcp
+Vitamin B12 import ATP-binding protein BtuD
+Glutamate-1-semialdehyde 2%2C1-aminomutase 1
+Glutamate synthase [NADPH] large chain
+Putative multidrug export ATP-binding/permease protein
+Small%2C acid-soluble spore protein gamma-type
+Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL
+putative protein YfhS
+Adenine DNA glycosylase
+putative protein YfhP
+Small%2C acid-soluble spore protein K
+putative protein YfhH
+Sepiapterin reductase
+Regulatory protein RecX
+Epimerase family protein
+Argininosuccinate lyase
+Argininosuccinate synthase
+Ornithine carbamoyltransferase
+Carbamoyl-phosphate synthase large chain
+Carbamoyl-phosphate synthase small chain
+Acetylornithine aminotransferase
+Acetylglutamate kinase
+Arginine biosynthesis bifunctional protein ArgJ
+N-acetyl-gamma-glutamyl-phosphate reductase
+Transcriptional regulatory protein LnrK
+Sensor histidine kinase LnrJ
+Linearmycin resistance permease protein LnrN
+Linearmycin resistance ATP-binding protein LnrL
+3-dehydroquinate dehydratase
+Shikimate kinase 1
+Foldase protein PrsA
+Signal peptidase I W
+Neutral protease B
+Bacillolysin
+Major biofilm matrix component
+Neutral protease B
+Xaa-Pro dipeptidyl-peptidase
+Glutathione transport system permease protein GsiD
+Dipeptide transport system permease protein DppB
+Periplasmic dipeptide transport protein
+Oligopeptide transport ATP-binding protein OppF
+Oligopeptide transport ATP-binding protein OppD
+HTH-type transcriptional activator mta
+Di-/tripeptide transporter
+Levansucrase and sucrase synthesis operon antiterminator
+PTS system N-acetylglucosamine-specific EIICBA component
+PTS system glucose-specific EIIA component
+Enterobactin exporter EntS
+Inner membrane transport protein YnfM
+Tubulin-like protein CetZ
+Glycine betaine/proline betaine transport system ATP-binding protein ProV
+putative iron export permease protein FetB
+Glutamate decarboxylase
+Major biofilm matrix component
+Foldase protein PrsA
+Major biofilm matrix component
+Foldase protein PrsA
+Major biofilm matrix component
+putative tRNA-dihydrouridine synthase
+Aldo-keto reductase YhdN
+23S rRNA (uracil-C(5))-methyltransferase RlmCD
+Peptidoglycan-N-acetylmuramic acid deacetylase PdaA
+putative protein YfkD
+Ca(2+)/H(+) antiporter ChaA
+putative MFS-type transporter YcaD
+Zinc-transporting ATPase
+Methionine aminopeptidase 1
+HTH-type transcriptional regulator SinR
+Histidine ammonia-lyase
+DNA topoisomerase 3
+Na(+)%2C Li(+)%2C K(+)/H(+) antiporter
+Aminopeptidase 2
+Large-conductance mechanosensitive channel
+putative protein YetJ
+ECF RNA polymerase sigma factor SigW
+Sporulation protein YkvU
+putative deferrochelatase/peroxidase EfeN
+putative iron uptake system component EfeM
+Transcriptional regulatory protein LiaR
+Sensor histidine kinase LiaS
+Protein LiaF
+Protein LiaH
+Cytochrome b6-f complex iron-sulfur subunit
+Glutamyl-tRNA(Gln) amidotransferase subunit A
+DEAD-box ATP-dependent RNA helicase CshC
+putative metallo-hydrolase YflN
+Tryptophan 2%2C3-dioxygenase
+Kynurenine formamidase
+Putative electron transport protein YccM
+scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+Glutamine--tRNA ligase
+Oxygen regulatory protein NreC
+Signal transduction histidine-protein kinase/phosphatase DegS
+Arsenite oxidase subunit AioB
+Assimilatory nitrate reductase catalytic subunit
+Adaptive-response sensory-kinase SasA
+Inner membrane protein YjjP
+Fatty acid resistance protein FarB
+Ribose import permease protein RbsC
+Ribose import ATP-binding protein RbsA
+Staphyloferrin B transporter
+Multidrug efflux system ATP-binding protein
+ATP-dependent DNA helicase RecQ
+Protein CbbY
+Acetyl-CoA:oxalate CoA-transferase
+Long-chain-fatty-acid--CoA ligase FadD13
+3-oxoadipyl-CoA/3-oxo-5%2C6-dehydrosuberyl-CoA thiolase
+Acyl-CoA dehydrogenase
+Long-chain-fatty-acid--CoA ligase FadD13
+Anaerobic nitric oxide reductase transcription regulator NorR
+IS200/IS605 family transposase ISCbt1
+D-apiose dehydrogenase
+putative oxidoreductase
+putative MFS-type transporter YhhS
+Glyoxylate/hydroxypyruvate reductase B
+Glycerophosphodiester phosphodiesterase
+Bacitracin transport ATP-binding protein BcrA
+Sensor histidine kinase RcsC
+Transcriptional regulatory protein WalR
+RNA-splicing ligase RtcB
+GTPase Era
+Glutamine transport ATP-binding protein GlnQ
+L-cystine transport system permease protein YecS
+Glutamine-binding periplasmic protein
+HTH-type transcriptional regulator TnrA
+Branched-chain-amino-acid aminotransferase
+Dihydroxy-acid dehydratase
+Acetolactate synthase large subunit
+Acetolactate synthase small subunit
+Ketol-acid reductoisomerase (NADP(+))
+2-isopropylmalate synthase
+3-isopropylmalate dehydrogenase
+3-isopropylmalate dehydratase large subunit
+3-isopropylmalate dehydratase small subunit 1
+Putative acetyltransferase YjbC
+Putative purine permease YwdJ
+putative adenylyltransferase/sulfurtransferase MoeZ
+Protein LiaG
+putative FMN/FAD exporter YeeO
+Oligo-1%2C6-glucosidase
+HTH-type transcriptional regulator MalR
+Maltose/maltodextrin transport system permease protein MalG
+Cyclodextrin-binding protein
+Neopullulanase
+Oligo-1%2C6-glucosidase
+Group 2 truncated hemoglobin YjbI
+Guanidinium exporter
+Tn3 family transposase ISAau4
+Queuosine precursor transporter QueT
+Copper homeostasis protein CutC
+HTH-type transcriptional regulator HdfR
+Citrate synthase 1
+putative metallo-hydrolase YflN
+Spermidine/putrescine import ATP-binding protein PotA
+Spermidine/putrescine transport system permease protein PotB
+Inner membrane ABC transporter permease protein YdcV
+Spermidine/putrescine-binding periplasmic protein
+Ribosomal RNA large subunit methyltransferase I
+Energy-coupling factor transporter ATP-binding protein EcfA2
+Energy-coupling factor transporter ATP-binding protein EcfA1
+Energy-coupling factor transporter transmembrane protein EcfT
+Purine nucleoside phosphorylase DeoD-type
+RNA polymerase sigma factor SigV
+Sporulation-control protein spo0M
+Bacillolysin
+Protease synthase and sporulation protein PAI 2
+HTH-type transcriptional regulatory protein GabR
+Ubiquinone biosynthesis O-methyltransferase%2C mitochondrial
+Signal peptidase I S
+Thermolysin
+putative protein YbbA
+Glucosamine-6-phosphate deaminase 1
+Trehalose transport system permease protein SugB
+Trehalose transport system permease protein SugA
+putative ABC transporter-binding protein
+D-xylose-binding periplasmic protein
+Protein-glutamate methylesterase/protein-glutamine glutaminase
+Mycothiol acetyltransferase
+Arsenical pump membrane protein
+Molybdate-binding protein ModA
+Lipid II flippase Amj
+L-amino acid N-acetyltransferase AaaT
+Oleandomycin glycosyltransferase
+Protein YiiM
+Phosphatidylglycerol lysyltransferase
+General stress protein 20U
+Proton/sodium-glutamate symport protein
+3-oxoacyl-[acyl-carrier-protein] synthase 2
+Isopentenyl-diphosphate Delta-isomerase
+Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+Adaptive-response sensory-kinase SasA
+Bacitracin transport ATP-binding protein BcrA
+ECF RNA polymerase sigma factor SigW
+Flavin-dependent trigonelline monooxygenase%2C oxygenase component
+Spore coat protein A
+Oxygen regulatory protein NreC
+HTH-type transcriptional regulator HexR
+Putative N-acetylmannosamine-6-phosphate 2-epimerase
+PTS system glucose-specific EIICBA component
+PTS system glucose-specific EIICBA component
+Aminoglycoside 6-adenylyltransferase
+Dihydroorotate dehydrogenase (quinone)
+FMNH(2)-dependent dimethylsulfone monooxygenase
+putative HTH-type transcriptional regulator YtcD
+Arginine exporter protein ArgO
+Riboflavin transporter RibZ
+Purine nucleoside phosphorylase DeoD-type
+Fatty acid metabolism regulator protein
+Peptidoglycan L-alanyl-D-glutamate endopeptidase CwlK
+RNA polymerase-associated protein RapA
+Microcin C7 self-immunity protein MccF
+Phosphoglycolate phosphatase
+HTH-type transcriptional activator RhaR
+Phosphoglycolate phosphatase
+putative transporter YycB
+Glucitol operon repressor
+Sec-independent protein translocase protein TatAd
+Sec-independent protein translocase protein TatCd
+putative oxidoreductase
+putative N-acetyltransferase YvbK
+Spore germination protein B3
+Spore germination protein B1
+Undecaprenyl-diphosphatase BcrC
+Protein DedA
+Peptidoglycan-N-acetylglucosamine deacetylase
+Processive diacylglycerol beta-glucosyltransferase
+Signal transduction histidine-protein kinase ArlS
+Response regulator ArlR
+putative protein YkoJ
+Bacitracin transport ATP-binding protein BcrA
+3-oxoacyl-[acyl-carrier-protein] reductase
+Hydroxyacylglutathione hydrolase
+Acetyltransferase YpeA
+Putative epoxidase LasC
+Macrolide export ATP-binding/permease protein MacB
+Adaptive-response sensory-kinase SasA
+Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+Formylaminopyrimidine-binding protein
+Riboflavin transport system permease protein RibX
+Bicarbonate transport ATP-binding protein CmpD
+putative metal-dependent hydrolase YcfH
+Acetyl-CoA acetyltransferase
+Muconate cycloisomerase 1
+Acetate CoA-transferase subunit beta
+Succinyl-CoA:3-ketoacid coenzyme A transferase subunit A
+2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase
+Chlorocatechol 1%2C2-dioxygenase
+Pca regulon regulatory protein
+N-acetyltransferase Eis
+Putative metal-dependent hydrolase YfiT
+Tetracycline resistance protein%2C class B
+CTP pyrophosphohydrolase
+Thymidylate synthase
+Thymidylate kinase
+Uracil-DNA glycosylase
+Regulatory protein YeiL
+putative 3-phenylpropionic acid transporter
+Ribose import permease protein RbsC
+Ribose import permease protein RbsC
+Ribose import ATP-binding protein RbsA
+Putative sugar kinase YoaC
+Putative 2-hydroxyacid dehydrogenase YoaD
+Dimethyl sulfoxide reductase DmsA
+Quinolinate synthase A
+putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+L-aspartate oxidase
+Methylated-DNA--protein-cysteine methyltransferase%2C constitutive
+Leucine-%2C isoleucine-%2C valine-%2C threonine-%2C and alanine-binding protein
+High-affinity branched-chain amino acid transport system permease protein LivH
+High-affinity branched-chain amino acid transport system permease protein LivH
+Lipopolysaccharide export system ATP-binding protein LptB
+High-affinity branched-chain amino acid transport ATP-binding protein LivF
+Protein PsiE
+Nucleobase transporter PlAzg2
+General stress protein 18
+Phage shock protein A 
+Arginine transport ATP-binding protein ArtM
+Arginine transport system permease protein ArtQ
+L-cystine-binding protein FliY
+Cyclopentanol dehydrogenase
+Na(+)/H(+) antiporter NhaG
+General stress protein 39
+Guanylate kinase
+GMP reductase
+Branched-chain-amino-acid transaminase 1
+tRNA-Met(cat)
+5S ribosomal RNA
+23S ribosomal RNA
+16S ribosomal RNA
+tRNA-Met(cat)
+tRNA-Met(cat)
+5S ribosomal RNA
+23S ribosomal RNA
+16S ribosomal RNA
+2-haloacrylate reductase
+Maltose O-acetyltransferase
+Putative D-alanyl-D-alanine carboxypeptidase
+ATP-dependent RNA helicase DbpA
+Catechol-2%2C3-dioxygenase
+Spore germination protein B1
+Spore germination protein YndE
+Sodium%2C potassium%2C lithium and rubidium/H(+) antiporter
+Hypoxanthine phosphoribosyltransferase
+Adenosine deaminase
+putative dual-specificity RNA methyltransferase RlmN
+tRNA-Ser(tga)
+5S ribosomal RNA
+23S ribosomal RNA
+16S ribosomal RNA
+Transcriptional regulatory protein LnrK
+IS1182 family transposase ISBsp4
+HTH-type transcriptional regulator BetI
+Response regulator protein GraR
+Sensor histidine kinase GraS
+Bacitracin export ATP-binding protein BceA
+Bacitracin export permease protein BceB
+Bifunctional xylanase/deacetylase
+queuosine precursor transporter
+NADPH-dependent 7-cyano-7-deazaguanine reductase
+Putative acyl-[acyl-carrier-protein] desaturase DesA1
+Serine protease AprX
+Evolved beta-galactosidase subunit alpha
+Lactose transport system permease protein LacG
+Lactose transport system permease protein LacF
+Lactose-binding protein
+putative glycine dehydrogenase (decarboxylating) subunit 2
+putative glycine dehydrogenase (decarboxylating) subunit 1
+Dihydroanticapsin 7-dehydrogenase
+Diacetylchitobiose uptake system permease protein NgcG
+L-arabinose transport system permease protein AraP
+Cyclodextrin-binding protein
+Protein-glutamate methylesterase/protein-glutamine glutaminase
+putative glycine dehydrogenase (decarboxylating) subunit 2
+putative glycine dehydrogenase (decarboxylating) subunit 1
+Dihydroanticapsin 7-dehydrogenase
+Glucose 1-dehydrogenase
+Protein RocB
+Glutamine transport ATP-binding protein GlnQ
+Arginine transport system permease protein ArtQ
+L-cystine-binding protein FliY
+glycine dehydrogenase (decarboxylating) subunit 1
+Anaerobic nitric oxide reductase transcription regulator NorR
+Ribonuclease J1
+L-cystine uptake protein TcyP
+Aerobic glycerol-3-phosphate dehydrogenase
+Glycerol kinase
+Alpha-galactosidase AgaA
+HTH-type transcriptional regulator CysL
+Adaptive-response sensory-kinase SasA
+Heme response regulator HssR
+Anaerobic nitric oxide reductase transcription regulator NorR
+D-beta-hydroxybutyrate dehydrogenase
+Acetyl-CoA acetyltransferase
+Acetate CoA-transferase subunit beta
+Acetate CoA-transferase subunit alpha
+Adaptive-response sensory-kinase SasA
+ECF RNA polymerase sigma factor SigJ
+putative L-galactonate transporter
+HTH-type transcriptional regulator YodB
+N-carbamoyl-L-amino-acid hydrolase
+Galactoside transport system permease protein MglC
+Galactose/methyl galactoside import ATP-binding protein MglA
+D-galactose-binding periplasmic protein
+Protein-glutamate methylesterase/protein-glutamine glutaminase
+HTH-type transcriptional repressor PurR
+HTH-type transcriptional repressor MelR
+Aldose 1-epimerase
+Galactose-1-phosphate uridylyltransferase
+Galactokinase
+Vitamin B12 import ATP-binding protein BtuD
+Protein RocB
+Amino-acid permease RocE
+N(G)%2CN(G)-dimethylarginine dimethylaminohydrolase
+N(G)%2CN(G)-dimethylarginine dimethylaminohydrolase
+HTH-type transcriptional regulator KipR
+Guanine deaminase
+GABA permease
+Kynureninase
+N-acetylcysteine deacetylase
+Sporulation kinase E
+Petrobactin-binding protein YclQ
+Petrobactin import ATP-binding protein YclP
+Petrobactin import system permease protein YclO
+Petrobactin import system permease protein YclN
+Vitamin B12 import ATP-binding protein BtuD
+Gamma-D-glutamyl-L-lysine dipeptidyl-peptidase
+L-Ala-D/L-Glu epimerase
+putative murein peptide carboxypeptidase
+Dipeptide-binding protein DppE
+Oligopeptide transport ATP-binding protein OppD
+Dipeptide transport system permease protein DppC
+Dipeptide transport system permease protein DppB
+D-aminopeptidase
+Putative oxidoreductase YceM
+Xaa-Pro dipeptidyl-peptidase
+Delta(1)-pyrroline-2-carboxylate reductase
+Hydroxyacylglutathione hydrolase
+2-iminobutanoate/2-iminopropanoate deaminase
+Xaa-Pro dipeptidyl-peptidase
+DegV domain-containing protein
+Beta-phosphoglucomutase
+Maltose phosphorylase
+Sulfite reductase [NADPH] flavoprotein alpha-component
+putative HTH-type transcriptional regulator YxaF
+Hydroxyacylglutathione hydrolase
+Multidrug resistance protein MdtG
+Carboxylesterase NlhH
+6-hydroxynicotinate 3-monooxygenase
+HTH-type transcriptional repressor NagR
+3-oxoadipate CoA-transferase subunit B
+3-oxoadipate CoA-transferase subunit A
+Hydroxyacylglutathione hydrolase
+Putative serine esterase
+Phosphotriesterase homology protein
+Parathion hydrolase
+HTH-type transcriptional regulator XynR
+Putative universal stress protein
+putative transport protein HsrA
+RNA polymerase-binding transcription factor CarD
+putative malate:quinone oxidoreductase 1
+putative D-xylose utilization operon transcriptional repressor
+Xylulose kinase
+High-affinity gluconate transporter
+6-phosphogluconate dehydrogenase%2C NAD(+)-dependent%2C decarboxylating
+IS1182 family transposase ISBsp5
+Putative 3-oxopropanoate dehydrogenase
+Taurine--pyruvate aminotransferase
+N-substituted formamide deformylase
+putative symporter YodF
+N-carbamoyl-L-amino-acid hydrolase
+Glycine betaine/carnitine/choline transport ATP-binding protein OpuCA
+Succinyl-diaminopimelate desuccinylase
+HTH-type transcriptional repressor NsrR
+putative multidrug resistance protein EmrY
+Putative L%2CD-transpeptidase YkuD
+Thermolysin
+UvrABC system protein A
+putative ABC transporter ATP-binding protein YbiT
+Dihydroorotate dehydrogenase B (NAD(+))%2C electron transfer subunit
+23S rRNA (uracil-C(5))-methyltransferase RlmCD
+Peptide transporter CstA
+Sensory transduction protein LytR
+Sensor histidine kinase YpdA
+Nicotinate phosphoribosyltransferase pncB2
+Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+Diacylglycerol kinase
+Glycerol-3-phosphate acyltransferase
+High-affinity proline transporter PutP
+Putative ribosomal N-acetyltransferase YdaF
+Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+Glutamyl-tRNA(Gln) amidotransferase subunit A
+Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+Vancomycin B-type resistance protein VanW
+putative protein YueI
+Isocitrate lyase
+Malate synthase A
+Precorrin-2 dehydrogenase
+Sirohydrochlorin cobaltochelatase
+Uroporphyrinogen-III C-methyltransferase
+Assimilatory nitrite reductase [NAD(P)H] small subunit
+Nitrite reductase [NAD(P)H]
+Carboxylesterase YbfK
+Extracellular exo-alpha-(1->5)-L-arabinofuranosidase
+L-arabinose transport system permease protein AraQ
+sn-glycerol-3-phosphate transport system permease protein UgpA
+Beta-galactosidase
+Beta-glucuronidase
+HTH-type transcriptional regulator AscG
+1-pyrroline-5-carboxylate dehydrogenase 1
+DNA ligase
+ATP-dependent DNA helicase PcrA
+Heptaprenylglyceryl phosphate synthase
+Putative lipoprotein YerB
+Putative adenine deaminase YerA
+Phosphoribosylamine--glycine ligase
+Bifunctional purine biosynthesis protein PurH
+Phosphoribosylglycinamide formyltransferase
+Phosphoribosylformylglycinamidine cyclo-ligase
+Amidophosphoribosyltransferase
+Phosphoribosylformylglycinamidine synthase subunit PurL
+Phosphoribosylformylglycinamidine synthase subunit PurQ
+Phosphoribosylformylglycinamidine synthase subunit PurS
+Phosphoribosylaminoimidazole-succinocarboxamide synthase
+Adenylosuccinate lyase
+N5-carboxyaminoimidazole ribonucleotide synthase
+N5-carboxyaminoimidazole ribonucleotide mutase
+Putative carboxypeptidase YodJ
+5S ribosomal RNA
+23S ribosomal RNA
+16S ribosomal RNA
+PTS system glucose-specific EIICBA component
+PtsGHI operon antiterminator
+Linearmycin resistance permease protein LnrN
+Linearmycin resistance permease protein LnrM
+Linearmycin resistance ATP-binding protein LnrL
+Guanine/hypoxanthine permease PbuG
+GMP synthase [glutamine-hydrolyzing]
+Glycine betaine transporter OpuD
+D-malate dehydrogenase [decarboxylating]
+Succinate-semialdehyde dehydrogenase [NADP(+)] GabD
+Carnitine monooxygenase oxygenase subunit
+Anaerobic nitric oxide reductase transcription regulator NorR
+putative protein
+Type VII secretion system protein EssC
+Type VII secretion system protein EssB
+Type VII secretion system accessory factor EsaB
+Type VII secretion system extracellular protein A
+C4-dicarboxylate TRAP transporter large permease protein DctM
+Solute-binding protein
+(R)-citramalyl-CoA lyase
+Succinyl-CoA--L-malate CoA-transferase beta subunit
+HTH-type transcriptional regulator McbR
+Beta-hexosaminidase
+HTH-type transcriptional activator RhaS
+Glucose starvation-inducible protein B
+Glucan 1%2C4-alpha-maltohexaosidase
+Levodione reductase
+IS3 family transposase ISBsp2
+IS3 family transposase ISBsp2
+Putative aminoacrylate peracid reductase RutC
+NAD(P)H-quinone oxidoreductase subunit 2%2C chloroplastic
+Enterobactin exporter EntS
+IS110 family transposase IS653
+putative chaperone CsaA
+Tyrosine recombinase XerC
+60 kDa chaperonin
+10 kDa chaperonin
+Membrane-embedded CAAX protease MroQ
+Redox-sensing transcriptional repressor Rex
+Cyclic pyranopterin monophosphate synthase
+putative ABC transporter ATP-binding protein YheS
+tRNA N6-adenosine threonylcarbamoyltransferase
+[Ribosomal protein S18]-alanine N-acetyltransferase
+tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+tRNA-Asp(gtc)
+tRNA-Met(cat)
+5S ribosomal RNA
+23S ribosomal RNA
+16S ribosomal RNA
+tRNA-Gly(tcc)
+tRNA-Pro(tgg)
+tRNA-Arg(acg)
+tRNA-Leu(gag)
+tRNA-Leu(tag)
+tRNA-Gln(ttg)
+tRNA-Glu(ttc)
+tRNA-Ser(gct)
+tRNA-Asn(gtt)
+Protein SprT-like protein
+Protein YhgF
+Endoribonuclease EndoA
+Antitoxin EndoAI
+Alanine racemase
+Sporulation protein YdcC
+Holo-[acyl-carrier-protein] synthase
+Rhomboid protease GlpG
+Spore germination protein B1
+Spore germination protein A3
+DEAD-box ATP-dependent RNA helicase CshA
+UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+D-alanine--D-alanine ligase
+Magnesium transporter MgtE
+Potassium transporter KimA
+Nucleoside permease NupC
+Arginine--tRNA ligase
+Vitamin B12 import ATP-binding protein BtuD
+D-aminopeptidase
+putative anti-sigma-M factor YhdL
+ECF RNA polymerase sigma factor SigM
+Phosphoserine phosphatase 1
+RNA polymerase-associated protein RapA
+Aminopeptidase PepS
+Apo-petrobactin exporter
+Putative sporulation-specific glycosylase YdhD
+ABC transporter ATP-binding protein YtrB
+UvrABC system protein A
+Methionine--tRNA ligase
+Mannitol-1-phosphate 5-dehydrogenase
+Mannitol-specific phosphotransferase enzyme IIA component
+Transcriptional regulator MtlR
+PTS system mannitol-specific EIICB component
+Mannitol-1-phosphate 5-dehydrogenase
+PTS system mannitol-specific EIICBA component
+Glucose-6-phosphate isomerase B
+Transaldolase
+6-phosphogluconate dehydrogenase%2C NAD(+)-dependent%2C decarboxylating
+Transketolase
+Glucose-6-phosphate 1-dehydrogenase
+Fructose-1%2C6-bisphosphatase class 2
+HTH-type transcriptional regulator YodB
+Ribose-5-phosphate isomerase A
+Putative sporulation-specific glycosylase YdhD
+Diadenylate cyclase CdaS
+Putative sporulation-specific glycosylase YdhD
+NAD(P)H dehydrogenase (quinone)
+Organic hydroperoxide resistance protein OhrA
+Inner membrane protein YjjP
+Quercetin 2%2C3-dioxygenase
+Quinone reductase
+NAD(P)H dehydrogenase (quinone)
+Putative oxidoreductase CatD
+Putative ring-cleaving dioxygenase MhqA
+Putative ring-cleaving dioxygenase MhqA
+putative HTH-type transcriptional regulator/GBAA_1941/BAS1801
+Arsenate reductase
+Arsenical pump membrane protein
+HTH-type transcriptional repressor AseR
+Putative phosphinothricin acetyltransferase YwnH
+Transposon Tn7 transposition protein TnsC
+Transposon Tn7 transposition protein TnsB
+Transposon Tn7 transposition protein TnsA
+Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+Phosphoglucosamine mutase
+CdaA regulatory protein CdaR
+Cyclic di-AMP synthase CdaA
+Anti-sigma-W factor RsiW
+ECF RNA polymerase sigma factor SigW
+Arginase
+tRNA-Lys(ttt)
+tRNA-Gln(ttg)
+tRNA-Tyr(gta)
+tRNA-Thr(tgt)
+tRNA-Val(tac)
+tRNA-Glu(ttc)
+tRNA-Thr(ggt)
+tRNA-Asn(gtt)
+5S ribosomal RNA
+23S ribosomal RNA
+16S ribosomal RNA
+Spore germination protein GerD
+Iron-sulfur cluster carrier protein
+Germination-specific N-acetylmuramoyl-L-alanine amidase
+putative oxidoreductase
+S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+Transcriptional regulatory protein LiaR
+HTH-type transcriptional regulator HexR
+N-acetylcysteine deacetylase
+o-succinylbenzoate synthase
+30S ribosomal protein S9
+50S ribosomal protein L13
+tRNA pseudouridine synthase A
+Energy-coupling factor transporter transmembrane protein EcfT
+Energy-coupling factor transporter ATP-binding protein EcfA2
+Energy-coupling factor transporter ATP-binding protein EcfA1
+50S ribosomal protein L17
+DNA-directed RNA polymerase subunit alpha
+30S ribosomal protein S11
+30S ribosomal protein S13
+Translation initiation factor IF-1
+Adenylate kinase
+Protein translocase subunit SecY
+50S ribosomal protein L15
+50S ribosomal protein L30
+30S ribosomal protein S5
+50S ribosomal protein L18
+50S ribosomal protein L6
+30S ribosomal protein S8
+30S ribosomal protein S14
+50S ribosomal protein L5
+50S ribosomal protein L24
+50S ribosomal protein L14
+30S ribosomal protein S17
+50S ribosomal protein L29
+50S ribosomal protein L16
+30S ribosomal protein S3
+50S ribosomal protein L22
+30S ribosomal protein S19
+50S ribosomal protein L2
+50S ribosomal protein L23
+50S ribosomal protein L4
+50S ribosomal protein L3
+30S ribosomal protein S10
+Elongation factor Tu
+Elongation factor G
+30S ribosomal protein S7
+30S ribosomal protein S12
+Ribosome-associated protein L7Ae-like protein
+DNA-directed RNA polymerase subunit beta'
+DNA-directed RNA polymerase subunit beta
+Ribosomal RNA small subunit methyltransferase C
+50S ribosomal protein L7/L12
+50S ribosomal protein L10
+50S ribosomal protein L1
+50S ribosomal protein L11
+Transcription termination/antitermination protein NusG
+Protein translocase subunit SecE
+RNA polymerase sigma-H factor
+putative protein YacP
+Putative TrmH family tRNA/rRNA methyltransferase
+Mini-ribonuclease 3
+Cysteine--tRNA ligase
+Serine acetyltransferase
+Glutamate--tRNA ligase
+2-C-methyl-D-erythritol 2%2C4-cyclodiphosphate synthase
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+putative PIN and TRAM-domain containing protein YacL
+DNA integrity scanning protein DisA
+DNA repair protein RadA
+Negative regulator of genetic competence ClpC/MecB
+Protein-arginine kinase
+Protein-arginine kinase activator protein
+Transcriptional regulator CtsR
+5S ribosomal RNA
+23S ribosomal RNA
+16S ribosomal RNA
+tRNA-Ala(tgc)
+tRNA-Pro(tgg)
+tRNA-Ala(tgc)
+tRNA-Ile(gat)
