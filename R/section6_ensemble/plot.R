@@ -30,7 +30,7 @@ ggplot(cellshape_df, aes(x = Reference, y = Prediction)) +
                 color = ifelse(Prediction == Reference, "white", "black")), size = 5) +
   scale_color_identity() +
   theme_minimal() +
-  labs(x = "Ground Truth", y = "Cell Shape Prediction", fill = "Percentage", subtitle = "Cell shape prediction") +
+  labs(x = "Ground Truth", y = "LLM Prediction", fill = "Percentage", subtitle = "Cell shape prediction") +
   theme(
     plot.title = element_text(face = "bold"),
     axis.text.x = element_text(angle = 45, hjust = 1),
@@ -65,7 +65,7 @@ ggplot(hemolysis_df, aes(x = Reference, y = Prediction)) +
                 color = ifelse(Prediction == Reference, "white", "black")), size = 5) +
   scale_color_identity() +
   theme_minimal() +
-  labs(x = "Ground Truth", y = "Hemolysis Prediction", fill = "Percentage", subtitle = "Hemolysis prediction") +
+  labs(x = "Ground Truth", y = "LLM Prediction", fill = "Percentage", subtitle = "Hemolysis prediction") +
   theme(
     plot.title = element_text(face = "bold"),
     axis.text.y = element_text(hjust = 1),
