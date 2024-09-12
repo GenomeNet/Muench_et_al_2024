@@ -3,6 +3,7 @@
 library(randomForest)
 library(caret)
 library(dplyr)
+library(openxlsx)
 
 # load data
 full_pred <- readRDS("data/all_models_new_long.rds")
@@ -22,7 +23,7 @@ subset_truth$phylum <- as.factor(subset_truth$phylum)
 accuracy_df <- data.frame()
 importance_list <- list()
 conf_mat_list <- list()
-
+predictions_list <- list()
 # Loop over each target variable
 for (target in target_vars) {
   message("Processing ", target)
@@ -57,8 +58,16 @@ for (target in target_vars) {
   # Map the target column from subset_truth to both
   full_data$y <- subset_truth[[target]][match(full_data$name, subset_truth$name)]
   print(table(full_data$y))
+  # if nrow table < 100, skip
+  print(sum(table(full_data$y)))
+  if (sum(table(full_data$y)) < 100) {
+    message("Skipping ", target, " due to insufficient data")
+    target_vars <- target_vars[-which(target_vars == target)]
+    next
+  }
   # Convert y to factor
   full_data$y <- as.factor(full_data$y)
+  full_data_all <- full_data
   full_data <- na.omit(full_data)
   
   # Set up 5-fold cross-validation
@@ -70,7 +79,9 @@ for (target in target_vars) {
   
   # Initialize vector to store balanced accuracy
   balanced_accs <- numeric(kf)
-  
+  # Initialize variables to track best model
+  best_model <- NULL
+  best_acc <- -Inf
   # Perform k-fold cross-validation
   for (i in 1:kf) {
     # Split data into training and testing sets
@@ -85,15 +96,15 @@ for (target in target_vars) {
     # Clean column names
     colnames(train_data) <- make.names(colnames(train_data))
     colnames(test_data) <- make.names(colnames(test_data))
-    
+    colnames(full_data_all) <- make.names(colnames(full_data_all))
     # Train random forest model
     rf_model <- randomForest(
       y ~ ., 
-      data = train_data,  # Use the original training data
-      ntree = 500,  # Increase the number of trees to 500
-      mtry = floor(sqrt(ncol(train_data) - 1)),  # Adjust mtry to sqrt of the number of predictors
-      importance = TRUE,  # Ensure importance is calculated
-      nodesize = 10  # Adjust the minimum node size for deeper trees
+      data = train_data,
+      ntree = 500,
+      mtry = floor(sqrt(ncol(train_data) - 1)),
+      importance = TRUE,
+      nodesize = 10
     )
     if (i == 1) {  # Save only once per target (from first fold)
       importance_list[[target]] <- rf_model$importance
@@ -102,17 +113,24 @@ for (target in target_vars) {
     predictions <- predict(rf_model, test_data)
     
     # Calculate confusion matrix and save to list
-    conf_matrix <- confusionMatrix(predictions, test_data$y)
+    conf_matrix_save <- confusionMatrix(predictions, test_data$y)
     if (i == 1) {
-      conf_mat_list[[target]] <- conf_matrix
+      conf_mat_list[[target]] <- conf_matrix_save
     }
-    # Calculate balanced accuracy
+    # Calculate confusion matrix and balanced accuracy
+    conf_matrix <- confusionMatrix(predictions, test_data$y)
     if (is.matrix(conf_matrix$byClass)) {
       # Multi-class case
-      balanced_accs[i] <- mean(conf_matrix$byClass[, 'Balanced Accuracy'], na.rm = TRUE)
+      balanced_acc <- mean(conf_matrix$byClass[, 'Balanced Accuracy'], na.rm = TRUE)
     } else {
       # Binary case
-      balanced_accs[i] <- conf_matrix$byClass['Balanced Accuracy']
+      balanced_acc <- conf_matrix$byClass['Balanced Accuracy']
+    }
+    
+    # Save the model if it has the highest balanced accuracy
+    if (balanced_acc > best_acc) {
+      best_acc <- balanced_acc
+      best_model <- rf_model  # Save the best model
     }
   }
   
@@ -124,6 +142,8 @@ for (target in target_vars) {
                        data.frame(target = target, 
                                   mean_balanced_acc = round(mean_balanced_acc, 4), 
                                   fold_accuracies = I(list(round(balanced_accs, 4)))))
+  final_predictions <- predict(best_model, full_data_all %>% select(-name))
+  predictions_list[[target]] <- data.frame(name = full_data_all$name, predicted = final_predictions)
 }
 
 importance_list <- lapply(importance_list, function(imp) {
@@ -140,7 +160,21 @@ top_features_list <- lapply(importance_list, function(imp) {
 # Add the top 3 features to the accuracy_df based on the target
 accuracy_df$top_features <- unlist(top_features_list[accuracy_df$target])
 
+# Combine all predictions into a single data frame
+final_predictions_df <- data.frame(Binomial.name = full_truth$Binomial.name)
+for (target in target_vars) {
+  # Rename the "predicted" column to the current target
+  predictions_list[[target]] <- predictions_list[[target]] %>%
+    rename(!!target := predicted)  # Dynamically rename the column to the target variable name
+  
+  # Join the predictions to the final_predictions_df
+  final_predictions_df <- final_predictions_df %>%
+    left_join(predictions_list[[target]], by = c("Binomial.name" = "name"))
+}
+# remove row if all values are NA except Binomial.name
+final_predictions_df <- final_predictions_df[rowSums(is.na(final_predictions_df)) < ncol(final_predictions_df) - 1, ]
 # Save results as RDS
 saveRDS(accuracy_df, "result/accuracy_df.rds")
 saveRDS(importance_list, "result/importance_list.rds")
 saveRDS(conf_mat_list, "result/conf_mat_list.rds")
+write.xlsx(final_predictions_df, "result/best_model_predictions.xlsx")
